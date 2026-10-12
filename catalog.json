@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "texts": [
+    {
+      "id": "in-verrem",
+      "title": "In Verrem",
+      "subtitle": "Against Verres",
+      "author": "Cicero",
+      "description": "Cicero's prosecution of Verres, governor of Sicily, for extortion (70 BC).",
+      "file": "in-verrem.json",
+      "bytes": 4547828
+    },
+    {
+      "id": "in-catilinam",
+      "title": "In Catilinam",
+      "subtitle": "Against Catiline (Speeches I–IV)",
+      "author": "Cicero",
+      "description": "Cicero's four speeches of 63 BC exposing Catiline's conspiracy against the Republic.",
+      "file": "in-catilinam.json",
+      "bytes": 1364813
+    }
+  ]
+}
