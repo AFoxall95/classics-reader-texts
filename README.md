@@ -14,6 +14,11 @@ hand.
 | --- | --- | --- |
 | Cicero, *In Verrem* | W. Peterson (Oxford Classical Texts) | C. D. Yonge |
 | Cicero, *In Catilinam* I–IV | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *Pro Archia* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *De Amicitia* | W. A. Falconer (Loeb Classical Library) | W. A. Falconer |
+| Cicero, *Pro Cluentio* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Sallust, *Bellum Catilinae* | Perseus Digital Library edition | J. S. Watson |
+| Sallust, *Bellum Iugurthinum* | Perseus Digital Library edition | J. S. Watson |
 
 ## Sources and licences
 

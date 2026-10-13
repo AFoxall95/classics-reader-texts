@@ -2,13 +2,13 @@
   "format": 1,
   "texts": [
     {
-      "id": "in-verrem",
-      "title": "In Verrem",
-      "subtitle": "Against Verres",
+      "id": "de-amicitia",
+      "title": "De Amicitia",
+      "subtitle": "On Friendship (Laelius)",
       "author": "Cicero",
-      "description": "Cicero's prosecution of Verres, governor of Sicily, for extortion (70 BC).",
-      "file": "in-verrem.json",
-      "bytes": 4547828
+      "description": "A dialogue on friendship, set just after the death of Scipio and voiced by his friend Laelius (44 BC).",
+      "file": "de-amicitia.json",
+      "bytes": 1139590
     },
     {
       "id": "in-catilinam",
@@ -18,6 +18,51 @@
       "description": "Cicero's four speeches of 63 BC exposing Catiline's conspiracy against the Republic.",
       "file": "in-catilinam.json",
       "bytes": 1364813
+    },
+    {
+      "id": "in-verrem",
+      "title": "In Verrem",
+      "subtitle": "Against Verres",
+      "author": "Cicero",
+      "description": "Cicero's prosecution of Verres, governor of Sicily, for extortion (70 BC).",
+      "file": "in-verrem.json",
+      "bytes": 4547828
+    },
+    {
+      "id": "pro-archia",
+      "title": "Pro Archia",
+      "subtitle": "In Defence of the Poet Archias",
+      "author": "Cicero",
+      "description": "A short, celebrated speech defending the poet Archias's citizenship, and the value of literature itself (62 BC).",
+      "file": "pro-archia.json",
+      "bytes": 604120
+    },
+    {
+      "id": "pro-cluentio",
+      "title": "Pro Cluentio",
+      "subtitle": "In Defence of Aulus Cluentius",
+      "author": "Cicero",
+      "description": "Cicero's longest surviving defence speech: a murder trial full of family poisonings and bribed juries (66 BC).",
+      "file": "pro-cluentio.json",
+      "bytes": 1708062
+    },
+    {
+      "id": "bellum-catilinae",
+      "title": "Bellum Catilinae",
+      "subtitle": "The Conspiracy of Catiline",
+      "author": "Sallust",
+      "description": "Sallust's history of Catiline's conspiracy: the other side of Cicero's In Catilinam, with the speeches of Caesar and Cato.",
+      "file": "bellum-catilinae.json",
+      "bytes": 1308862
+    },
+    {
+      "id": "bellum-iugurthinum",
+      "title": "Bellum Iugurthinum",
+      "subtitle": "The Jugurthine War",
+      "author": "Sallust",
+      "description": "Sallust's account of Rome's war with the Numidian king Jugurtha, and the corruption it exposed at home.",
+      "file": "bellum-iugurthinum.json",
+      "bytes": 1812863
     }
   ]
 }
