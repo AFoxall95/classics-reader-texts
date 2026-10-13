@@ -11,6 +11,15 @@
       "bytes": 2307338
     },
     {
+      "id": "de-bello-gallico",
+      "title": "De Bello Gallico",
+      "subtitle": "The Gallic War",
+      "author": "Caesar",
+      "description": "Caesar's own account of his conquest of Gaul (58–50 BC), from the Helvetii to Vercingetorix at Alesia.",
+      "file": "de-bello-gallico.json",
+      "bytes": 3041685
+    },
+    {
       "id": "catullus",
       "title": "Carmina",
       "subtitle": "Poems (complete)",
@@ -18,6 +27,15 @@
       "description": "All of Catullus' poems: love and hate for Lesbia, friends and enemies, myth and invective. Some are sexually explicit.",
       "file": "catullus.json",
       "bytes": 1748688
+    },
+    {
+      "id": "ad-familiares",
+      "title": "Ad Familiares",
+      "subtitle": "Letters to Friends",
+      "author": "Cicero",
+      "description": "Cicero's letters to friends, family and colleagues — Caesar, Pompey, Cato, Tiro — over twenty years.",
+      "file": "ad-familiares.json",
+      "bytes": 4910859
     },
     {
       "id": "ad-quintum-fratrem",

@@ -13,7 +13,9 @@ hand.
 | Text | Latin edition | English translation |
 | --- | --- | --- |
 | Caesar, *De Bello Civili* | A. G. Peskett (Loeb Classical Library) | A. G. Peskett |
+| Caesar, *De Bello Gallico* | T. Rice Holmes | W. A. McDevitte & W. S. Bohn |
 | Catullus, *Carmina* | E. T. Merrill | L. C. Smithers |
+| Cicero, *Ad Familiares* | L. C. Purser (Oxford Classical Texts) | E. S. Shuckburgh |
 | Cicero, *Ad Quintum Fratrem* | L. C. Purser (Oxford Classical Texts) | E. S. Shuckburgh |
 | Cicero, *De Amicitia* | W. A. Falconer (Loeb Classical Library) | W. A. Falconer |
 | Cicero, *In Catilinam* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
