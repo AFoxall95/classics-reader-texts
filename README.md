@@ -12,13 +12,24 @@ hand.
 
 | Text | Latin edition | English translation |
 | --- | --- | --- |
-| Cicero, *In Verrem* | W. Peterson (Oxford Classical Texts) | C. D. Yonge |
-| Cicero, *In Catilinam* I–IV | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
-| Cicero, *Pro Archia* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Caesar, *De Bello Civili* | A. G. Peskett (Loeb Classical Library) | A. G. Peskett |
+| Catullus, *Carmina* | E. T. Merrill | L. C. Smithers |
+| Cicero, *Ad Quintum Fratrem* | L. C. Purser (Oxford Classical Texts) | E. S. Shuckburgh |
 | Cicero, *De Amicitia* | W. A. Falconer (Loeb Classical Library) | W. A. Falconer |
+| Cicero, *In Catilinam* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *In Verrem* | W. Peterson (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *Philippics* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *Pro Archia* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
 | Cicero, *Pro Cluentio* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Livy, *Ab Urbe Condita 1* | W. Weissenborn & M. Müller (Teubner) | B. O. Foster (Loeb Classical Library) |
+| Livy, *Ab Urbe Condita 2* | W. Weissenborn & M. Müller (Teubner) | B. O. Foster (Loeb Classical Library) |
+| Livy, *Ab Urbe Condita 21* | W. Weissenborn & M. Müller (Teubner) | B. O. Foster (Loeb Classical Library) |
+| Livy, *Ab Urbe Condita 22* | W. Weissenborn & M. Müller (Teubner) | B. O. Foster (Loeb Classical Library) |
 | Sallust, *Bellum Catilinae* | Perseus Digital Library edition | J. S. Watson |
 | Sallust, *Bellum Iugurthinum* | Perseus Digital Library edition | J. S. Watson |
+| Tacitus, *Agricola* | H. Furneaux (Oxford) | A. J. Church & W. J. Brodribb |
+| Tacitus, *Germania* | H. Furneaux (Oxford) | A. J. Church & W. J. Brodribb |
+| Virgil, *Aeneid* | J. B. Greenough | T. C. Williams |
 
 ## Sources and licences
 
@@ -32,6 +43,8 @@ hand.
   freely given for any and all use of program and data."
 - **Grammatical analysis:** generated with [Stanza](https://stanfordnlp.github.io/stanza/)
   using its Latin Perseus and PROIEL models. It is automatic and occasionally wrong.
+- **Translators and editors** are credited per text above; the Latin editions and
+  translations are those published by Perseus.
 
 As adaptations of CC BY-SA material, the text packs in this repository are
 licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

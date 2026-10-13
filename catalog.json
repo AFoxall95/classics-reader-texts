@@ -2,6 +2,33 @@
   "format": 1,
   "texts": [
     {
+      "id": "de-bello-civili",
+      "title": "De Bello Civili",
+      "subtitle": "The Civil War",
+      "author": "Caesar",
+      "description": "Caesar's account of his war with Pompey and the Senate (49–48 BC), from the Rubicon to Pharsalus.",
+      "file": "de-bello-civili.json",
+      "bytes": 2307338
+    },
+    {
+      "id": "catullus",
+      "title": "Carmina",
+      "subtitle": "Poems (complete)",
+      "author": "Catullus",
+      "description": "All of Catullus' poems: love and hate for Lesbia, friends and enemies, myth and invective. Some are sexually explicit.",
+      "file": "catullus.json",
+      "bytes": 1748688
+    },
+    {
+      "id": "ad-quintum-fratrem",
+      "title": "Ad Quintum Fratrem",
+      "subtitle": "Letters to his Brother Quintus",
+      "author": "Cicero",
+      "description": "Cicero's letters to his younger brother, including advice on governing the province of Asia.",
+      "file": "ad-quintum-fratrem.json",
+      "bytes": 1748533
+    },
+    {
       "id": "de-amicitia",
       "title": "De Amicitia",
       "subtitle": "On Friendship (Laelius)",
@@ -29,6 +56,15 @@
       "bytes": 4547828
     },
     {
+      "id": "philippics",
+      "title": "Philippics",
+      "subtitle": "Against Mark Antony (Speeches I–XIV)",
+      "author": "Cicero",
+      "description": "Cicero's fourteen speeches against Mark Antony (44–43 BC), the last fight for the Republic.",
+      "file": "philippics.json",
+      "bytes": 3185351
+    },
+    {
       "id": "pro-archia",
       "title": "Pro Archia",
       "subtitle": "In Defence of the Poet Archias",
@@ -47,6 +83,42 @@
       "bytes": 1708062
     },
     {
+      "id": "livy-1",
+      "title": "Ab Urbe Condita 1",
+      "subtitle": "History of Rome, Book 1",
+      "author": "Livy",
+      "description": "The founding of Rome and the regal period, from Aeneas to the expulsion of Tarquin.",
+      "file": "livy-1.json",
+      "bytes": 1934505
+    },
+    {
+      "id": "livy-2",
+      "title": "Ab Urbe Condita 2",
+      "subtitle": "History of Rome, Book 2",
+      "author": "Livy",
+      "description": "The early Republic: Horatius at the bridge, Coriolanus, the secession of the plebs.",
+      "file": "livy-2.json",
+      "bytes": 1844319
+    },
+    {
+      "id": "livy-21",
+      "title": "Ab Urbe Condita 21",
+      "subtitle": "History of Rome, Book 21",
+      "author": "Livy",
+      "description": "The outbreak of the Second Punic War: Saguntum, and Hannibal's crossing of the Alps.",
+      "file": "livy-21.json",
+      "bytes": 1726292
+    },
+    {
+      "id": "livy-22",
+      "title": "Ab Urbe Condita 22",
+      "subtitle": "History of Rome, Book 22",
+      "author": "Livy",
+      "description": "Hannibal in Italy: Lake Trasimene, Fabius the Delayer, and the disaster at Cannae.",
+      "file": "livy-22.json",
+      "bytes": 1849757
+    },
+    {
       "id": "bellum-catilinae",
       "title": "Bellum Catilinae",
       "subtitle": "The Conspiracy of Catiline",
@@ -63,6 +135,33 @@
       "description": "Sallust's account of Rome's war with the Numidian king Jugurtha, and the corruption it exposed at home.",
       "file": "bellum-iugurthinum.json",
       "bytes": 1812863
+    },
+    {
+      "id": "agricola",
+      "title": "Agricola",
+      "subtitle": "The Life of Agricola",
+      "author": "Tacitus",
+      "description": "Tacitus' life of his father-in-law, the governor who completed the conquest of Britain.",
+      "file": "agricola.json",
+      "bytes": 1233446
+    },
+    {
+      "id": "germania",
+      "title": "Germania",
+      "subtitle": "On the Origin and Situation of the Germans",
+      "author": "Tacitus",
+      "description": "Tacitus' ethnography of the Germanic peoples beyond the Rhine.",
+      "file": "germania.json",
+      "bytes": 1077517
+    },
+    {
+      "id": "aeneid",
+      "title": "Aeneid",
+      "subtitle": "The Aeneid (Books I–XII)",
+      "author": "Virgil",
+      "description": "Virgil's epic of Aeneas, from the fall of Troy to the founding of the Roman people.",
+      "file": "aeneid.json",
+      "bytes": 3981874
     }
   ]
 }
