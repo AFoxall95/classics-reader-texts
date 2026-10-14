@@ -36,7 +36,7 @@ hand.
 | Horace, *Epistles* | H. R. Fairclough (Loeb Classical Library) | A. S. Kline |
 | Horace, *Odes* | P. Shorey | A. S. Kline |
 | Horace, *Satires* | Perseus Digital Library edition | A. S. Kline |
-| Juvenal, *Satires* | G. G. Ramsay (Loeb Classical Library) | A. S. Kline |
+| Juvenal, *Satires* | G. G. Ramsay (Loeb Classical Library) | A. S. Kline; L. Evans (Satire XVI) |
 | Lactantius, *De Mortibus Persecutorum* | S. Brandt & G. Laubmann (CSEL) | W. Fletcher (Ante-Nicene Fathers) |
 | Livy, *Ab Urbe Condita 1* | W. Weissenborn & M. Müller (Teubner) | B. O. Foster (Loeb Classical Library) |
 | Livy, *Ab Urbe Condita 2* | W. Weissenborn & M. Müller (Teubner) | B. O. Foster (Loeb Classical Library) |
@@ -51,8 +51,8 @@ hand.
 | Ovid, *Remedia Amoris* | R. Ehwald | A. S. Kline |
 | Ovid, *Tristia* | A. L. Wheeler (Loeb Classical Library) | A. S. Kline |
 | Petronius, *Satyricon* | M. Heseltine (Loeb Classical Library) | M. Heseltine |
-| Phaedrus, *Fabulae* | L. Mueller | C. Smart |
-| Pliny the Younger, *Epistulae* | Perseus Digital Library edition | J. B. Firth (Books I–V); W. Melmoth, rev. F. C. T. Bosanquet (selected letters, Books VI–X) |
+| Phaedrus, *Fabulae* | L. Mueller | C. Smart; H. T. Riley (fables Smart skips, and the Appendix) |
+| Pliny the Younger, *Epistulae* | Perseus Digital Library edition | J. B. Firth (Books I–IX); W. Melmoth, rev. F. C. T. Bosanquet (Book X) |
 | Propertius, *Elegies* | L. Mueller | A. S. Kline |
 | Sallust, *Bellum Catilinae* | Perseus Digital Library edition | J. S. Watson |
 | Sallust, *Bellum Iugurthinum* | Perseus Digital Library edition | J. S. Watson |
@@ -72,7 +72,7 @@ hand.
 | Tacitus, *Annals* | C. D. Fisher (Oxford Classical Texts) | A. J. Church & W. J. Brodribb |
 | Tacitus, *Germania* | H. Furneaux (Oxford) | A. J. Church & W. J. Brodribb |
 | Tacitus, *Histories* | C. D. Fisher (Oxford Classical Texts) | A. J. Church & W. J. Brodribb |
-| Tibullus, *Elegies* | J. P. Postgate | A. S. Kline |
+| Tibullus, *Elegies* | J. P. Postgate | A. S. Kline; T. C. Williams (III.1–6, III.19) |
 | Virgil, *Aeneid* | J. B. Greenough | A. S. Kline |
 | Virgil, *Eclogues* | J. B. Greenough | A. S. Kline |
 | Virgil, *Georgics* | J. B. Greenough | A. S. Kline |
@@ -86,8 +86,16 @@ hand.
   reproduced under its terms: free for non-commercial use. They are **not**
   covered by the CC BY-SA licence below; commercial use needs permission from
   Poetry in Translation.
-- **Pliny's Letters, English:** J. B. Firth (1900) and W. Melmoth, rev. F. C. T.
-  Bosanquet, from [Project Gutenberg](https://www.gutenberg.org/) (#3234, #2811); public domain.
+- **Pliny's Letters, English:** J. B. Firth (1900; Books I–IX) and W. Melmoth, rev.
+  F. C. T. Bosanquet (Book X), from [Project Gutenberg](https://www.gutenberg.org/)
+  (#3234, #2811) and the [Internet Archive](https://archive.org/) (Firth's Second
+  Series); public domain.
+- **Translations filling gaps in the main ones** (named under the passages they
+  translate in the app), all public domain from Project Gutenberg: W. Miller,
+  *De Officiis* Book III (#47001); H. T. Riley, Phaedrus, skipped fables and the
+  Appendix (#25512); L. Evans, Juvenal *Satire* XVI (#50657); T. C. Williams,
+  Tibullus III.1–6 and IV.13 (#9610); A. Thomson, rev. T. Forester, Suetonius,
+  *Julius* 49 and *Nero* 29 (#6400).
 - **Lactantius, *De Mortibus Persecutorum*:** Latin from [Open Greek and Latin](https://github.com/OpenGreekAndLatin/csel-dev)
   (CC BY-SA 4.0); English by W. Fletcher (Ante-Nicene Fathers, 1886) from
   [Wikisource](https://en.wikisource.org/); public domain.
