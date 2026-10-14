@@ -2,6 +2,46 @@
   "format": 1,
   "texts": [
     {
+      "id": "agamemnon",
+      "title": "Agamemnon",
+      "subtitle": "Oresteia 1",
+      "author": "Aeschylus",
+      "description": "Agamemnon comes home victorious from Troy, to Clytemnestra and her revenge. The first play of the Oresteia.",
+      "file": "agamemnon.json",
+      "bytes": 1321815,
+      "language": "grc"
+    },
+    {
+      "id": "clouds",
+      "title": "Clouds",
+      "subtitle": "Νεφέλαι",
+      "author": "Aristophanes",
+      "description": "Strepsiades sends his son to Socrates' Thinkery to learn how to talk his way out of his debts. Some explicit content.",
+      "file": "clouds.json",
+      "bytes": 1229075,
+      "language": "grc"
+    },
+    {
+      "id": "frogs",
+      "title": "Frogs",
+      "subtitle": "Βάτραχοι",
+      "author": "Aristophanes",
+      "description": "Dionysus goes down to Hades to bring back a great poet, and judges a contest between Aeschylus and Euripides. Some explicit content.",
+      "file": "frogs.json",
+      "bytes": 1249648,
+      "language": "grc"
+    },
+    {
+      "id": "lysistrata",
+      "title": "Lysistrata",
+      "subtitle": "Λυσιστράτη",
+      "author": "Aristophanes",
+      "description": "The women of Greece go on strike to force their men to end the war. Explicit content.",
+      "file": "lysistrata.json",
+      "bytes": 1086416,
+      "language": "grc"
+    },
+    {
       "id": "de-bello-civili",
       "title": "De Bello Civili",
       "subtitle": "The Civil War",
@@ -28,7 +68,7 @@
       "author": "Catullus",
       "description": "All of Catullus' poems: love and hate for Lesbia, friends and enemies, myth and invective. Some are sexually explicit.",
       "file": "catullus.json",
-      "bytes": 1750394,
+      "bytes": 1750281,
       "language": "lat"
     },
     {
@@ -202,13 +242,133 @@
       "language": "lat"
     },
     {
+      "id": "bacchae",
+      "title": "Bacchae",
+      "subtitle": "Βάκχαι",
+      "author": "Euripides",
+      "description": "Dionysus returns to Thebes, and King Pentheus, who denies him, is torn apart by the god's worshippers.",
+      "file": "bacchae.json",
+      "bytes": 1128816,
+      "language": "grc"
+    },
+    {
+      "id": "medea",
+      "title": "Medea",
+      "subtitle": "Μήδεια",
+      "author": "Euripides",
+      "description": "Abandoned by Jason in Corinth, Medea takes a terrible revenge.",
+      "file": "medea.json",
+      "bytes": 1085625,
+      "language": "grc"
+    },
+    {
+      "id": "herodotus-1",
+      "title": "Histories 1",
+      "subtitle": "Book 1",
+      "author": "Herodotus",
+      "description": "Croesus of Lydia and his meeting with Solon; the rise of Cyrus and the Persian Empire; Babylon.",
+      "file": "herodotus-1.json",
+      "bytes": 2346857,
+      "language": "grc"
+    },
+    {
+      "id": "herodotus-2",
+      "title": "Histories 2",
+      "subtitle": "Book 2",
+      "author": "Herodotus",
+      "description": "Egypt: the Nile, the pyramids, the priests and the Pharaohs.",
+      "file": "herodotus-2.json",
+      "bytes": 2007889,
+      "language": "grc"
+    },
+    {
+      "id": "herodotus-3",
+      "title": "Histories 3",
+      "subtitle": "Book 3",
+      "author": "Herodotus",
+      "description": "Cambyses' madness in Egypt; Polycrates of Samos; how Darius became king.",
+      "file": "herodotus-3.json",
+      "bytes": 1825702,
+      "language": "grc"
+    },
+    {
+      "id": "herodotus-4",
+      "title": "Histories 4",
+      "subtitle": "Book 4",
+      "author": "Herodotus",
+      "description": "Darius invades Scythia; the peoples of Scythia and Libya.",
+      "file": "herodotus-4.json",
+      "bytes": 1927549,
+      "language": "grc"
+    },
+    {
+      "id": "herodotus-5",
+      "title": "Histories 5",
+      "subtitle": "Book 5",
+      "author": "Herodotus",
+      "description": "The Ionian Revolt begins; Sparta and Athens in the late sixth century.",
+      "file": "herodotus-5.json",
+      "bytes": 1453376,
+      "language": "grc"
+    },
+    {
+      "id": "herodotus-6",
+      "title": "Histories 6",
+      "subtitle": "Book 6",
+      "author": "Herodotus",
+      "description": "The end of the Ionian Revolt and the Battle of Marathon.",
+      "file": "herodotus-6.json",
+      "bytes": 1495116,
+      "language": "grc"
+    },
+    {
+      "id": "herodotus-7",
+      "title": "Histories 7",
+      "subtitle": "Book 7",
+      "author": "Herodotus",
+      "description": "Xerxes' invasion of Greece and the stand at Thermopylae.",
+      "file": "herodotus-7.json",
+      "bytes": 2198471,
+      "language": "grc"
+    },
+    {
+      "id": "herodotus-8",
+      "title": "Histories 8",
+      "subtitle": "Book 8",
+      "author": "Herodotus",
+      "description": "Artemisium and the naval victory at Salamis.",
+      "file": "herodotus-8.json",
+      "bytes": 1456420,
+      "language": "grc"
+    },
+    {
+      "id": "herodotus-9",
+      "title": "Histories 9",
+      "subtitle": "Book 9",
+      "author": "Herodotus",
+      "description": "Plataea and Mycale: the end of the Persian invasion.",
+      "file": "herodotus-9.json",
+      "bytes": 1398448,
+      "language": "grc"
+    },
+    {
       "id": "iliad",
       "title": "Iliad",
       "subtitle": "Books 1–24",
       "author": "Homer",
       "description": "The wrath of Achilles: ten days in the tenth year of the Trojan War, from the quarrel with Agamemnon to the funeral of Hector.",
       "file": "iliad.json",
-      "bytes": 5493599,
+      "bytes": 5493412,
+      "language": "grc"
+    },
+    {
+      "id": "odyssey",
+      "title": "Odyssey",
+      "subtitle": "Books 1–24",
+      "author": "Homer",
+      "description": "Odysseus' ten-year journey home from Troy: the Cyclops, Circe, the Underworld, and the suitors waiting in Ithaca.",
+      "file": "odyssey.json",
+      "bytes": 4547356,
       "language": "grc"
     },
     {
@@ -248,8 +408,18 @@
       "author": "Horace",
       "description": "Horace's conversational satires: the bore on the Sacred Way, the town and country mouse.",
       "file": "horace-satires.json",
-      "bytes": 1899621,
+      "bytes": 1899603,
       "language": "lat"
+    },
+    {
+      "id": "panegyricus",
+      "title": "Panegyricus",
+      "subtitle": "Speech 4",
+      "author": "Isocrates",
+      "description": "Isocrates' great showpiece speech (380 BC): Athens' glories, and a call for the Greeks to unite against Persia.",
+      "file": "panegyricus.json",
+      "bytes": 1076041,
+      "language": "grc"
     },
     {
       "id": "juvenal",
@@ -348,7 +518,7 @@
       "author": "Ovid",
       "description": "Ovid's later letters from exile in Tomis, addressed by name to friends in Rome.",
       "file": "ovid-ex-ponto.json",
-      "bytes": 1932329,
+      "bytes": 1932319,
       "language": "lat"
     },
     {
@@ -418,8 +588,28 @@
       "author": "Phaedrus",
       "description": "Aesop's fables in Latin verse: the wolf and the lamb, the fox and the grapes. Short and simple, ideal for beginners.",
       "file": "phaedrus.json",
-      "bytes": 1710550,
+      "bytes": 1707785,
       "language": "lat"
+    },
+    {
+      "id": "plato-republic",
+      "title": "Republic",
+      "subtitle": "Books 1–10",
+      "author": "Plato",
+      "description": "What is justice? Socrates builds an ideal city ruled by philosopher-kings: the Cave, the theory of Forms, the myth of Er.",
+      "file": "plato-republic.json",
+      "bytes": 4574857,
+      "language": "grc"
+    },
+    {
+      "id": "plato-symposium",
+      "title": "Symposium",
+      "subtitle": "The Drinking Party",
+      "author": "Plato",
+      "description": "Speeches in praise of Love at Agathon's dinner party, from Aristophanes' split humans to Diotima's ladder of love, until a drunken Alcibiades bursts in.",
+      "file": "plato-symposium.json",
+      "bytes": 1429343,
+      "language": "grc"
     },
     {
       "id": "pliny-letters",
@@ -438,7 +628,7 @@
       "author": "Propertius",
       "description": "Love elegies for Cynthia, and in Book IV, poems on Rome's origins. (Kline's translation is in prose.)",
       "file": "propertius.json",
-      "bytes": 2378420,
+      "bytes": 2378387,
       "language": "lat"
     },
     {
@@ -460,6 +650,26 @@
       "file": "bellum-iugurthinum.json",
       "bytes": 1812863,
       "language": "lat"
+    },
+    {
+      "id": "antigone",
+      "title": "Antigone",
+      "subtitle": "Ἀντιγόνη",
+      "author": "Sophocles",
+      "description": "Antigone defies King Creon's decree to bury her brother, choosing the gods' law over the city's.",
+      "file": "antigone.json",
+      "bytes": 1086942,
+      "language": "grc"
+    },
+    {
+      "id": "oedipus-tyrannus",
+      "title": "Oedipus Tyrannus",
+      "subtitle": "Oedipus the King",
+      "author": "Sophocles",
+      "description": "Oedipus hunts for the killer of Laius, and discovers who he really is.",
+      "file": "oedipus-tyrannus.json",
+      "bytes": 1139462,
+      "language": "grc"
     },
     {
       "id": "suetonius-caligula",
@@ -622,13 +832,93 @@
       "language": "lat"
     },
     {
+      "id": "thucydides-1",
+      "title": "Peloponnesian War 1",
+      "subtitle": "Book 1",
+      "author": "Thucydides",
+      "description": "The causes of the war: early Greek history, Corcyra and Potidaea, Athens' rise to power.",
+      "file": "thucydides-1.json",
+      "bytes": 1851530,
+      "language": "grc"
+    },
+    {
+      "id": "thucydides-2",
+      "title": "Peloponnesian War 2",
+      "subtitle": "Book 2",
+      "author": "Thucydides",
+      "description": "The war begins: Pericles' Funeral Oration, the plague at Athens, Pericles' death.",
+      "file": "thucydides-2.json",
+      "bytes": 1676733,
+      "language": "grc"
+    },
+    {
+      "id": "thucydides-3",
+      "title": "Peloponnesian War 3",
+      "subtitle": "Book 3",
+      "author": "Thucydides",
+      "description": "The Mytilene debate, the fall of Plataea and civil war at Corcyra.",
+      "file": "thucydides-3.json",
+      "bytes": 1635416,
+      "language": "grc"
+    },
+    {
+      "id": "thucydides-4",
+      "title": "Peloponnesian War 4",
+      "subtitle": "Book 4",
+      "author": "Thucydides",
+      "description": "Pylos and Sphacteria; Brasidas in the north; the battle of Delium.",
+      "file": "thucydides-4.json",
+      "bytes": 1761566,
+      "language": "grc"
+    },
+    {
+      "id": "thucydides-5",
+      "title": "Peloponnesian War 5",
+      "subtitle": "Book 5",
+      "author": "Thucydides",
+      "description": "Amphipolis, the Peace of Nicias, Mantinea, and the Melian Dialogue.",
+      "file": "thucydides-5.json",
+      "bytes": 1357683,
+      "language": "grc"
+    },
+    {
+      "id": "thucydides-6",
+      "title": "Peloponnesian War 6",
+      "subtitle": "Book 6",
+      "author": "Thucydides",
+      "description": "Athens launches the Sicilian Expedition; the recall of Alcibiades.",
+      "file": "thucydides-6.json",
+      "bytes": 1590620,
+      "language": "grc"
+    },
+    {
+      "id": "thucydides-7",
+      "title": "Peloponnesian War 7",
+      "subtitle": "Book 7",
+      "author": "Thucydides",
+      "description": "Disaster at Syracuse: the destruction of the Athenian army and fleet.",
+      "file": "thucydides-7.json",
+      "bytes": 1428549,
+      "language": "grc"
+    },
+    {
+      "id": "thucydides-8",
+      "title": "Peloponnesian War 8",
+      "subtitle": "Book 8",
+      "author": "Thucydides",
+      "description": "After Sicily: Persian gold, revolts among the allies, and the oligarchic coup of 411.",
+      "file": "thucydides-8.json",
+      "bytes": 1486351,
+      "language": "grc"
+    },
+    {
       "id": "tibullus",
       "title": "Elegies",
       "subtitle": "Books I–III, with Lygdamus and Sulpicia",
       "author": "Tibullus",
       "description": "Love elegies for Delia and Nemesis, and the poems of Sulpicia, the only female Roman poet whose work survives.",
       "file": "tibullus.json",
-      "bytes": 1402426,
+      "bytes": 1402400,
       "language": "lat"
     },
     {
@@ -660,6 +950,26 @@
       "file": "virgil-georgics.json",
       "bytes": 1873683,
       "language": "lat"
+    },
+    {
+      "id": "cyropaedia",
+      "title": "Cyropaedia",
+      "subtitle": "The Education of Cyrus",
+      "author": "Xenophon",
+      "description": "A fictionalised life of Cyrus the Great, founder of the Persian Empire, as a model of how to lead.",
+      "file": "cyropaedia.json",
+      "bytes": 4202213,
+      "language": "grc"
+    },
+    {
+      "id": "xenophon-symposium",
+      "title": "Symposium",
+      "subtitle": "The Banquet",
+      "author": "Xenophon",
+      "description": "Socrates at Callias' dinner party: jokes, a dancing girl, and a lighter conversation about love than Plato's.",
+      "file": "xenophon-symposium.json",
+      "bytes": 1021276,
+      "language": "grc"
     }
   ]
 }

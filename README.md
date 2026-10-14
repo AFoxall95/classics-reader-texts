@@ -83,18 +83,34 @@ hand.
 
 | Text | Greek edition | English translation |
 | --- | --- | --- |
+| Aeschylus, *Agamemnon* | H. W. Smyth (Loeb Classical Library) | Ian Johnston |
+| Aristophanes, *Clouds*, *Lysistrata*, *Frogs* | F. W. Hall & W. M. Geldart (Oxford Classical Texts) | Ian Johnston |
+| Euripides, *Medea*, *Bacchae* | G. Murray (Oxford Classical Texts) | Ian Johnston |
+| Herodotus, *Histories* 1–9 | A. D. Godley (Loeb Classical Library) | A. D. Godley |
 | Homer, *Iliad* | D. B. Monro & T. W. Allen (Oxford Classical Texts) | A. S. Kline |
+| Homer, *Odyssey* | A. T. Murray (Loeb Classical Library) | A. S. Kline |
+| Isocrates, *Panegyricus* | G. Norlin (Loeb Classical Library) | G. Norlin |
 | Lysias, *On the Murder of Eratosthenes* (Speech 1) | W. R. M. Lamb (Loeb Classical Library) | W. R. M. Lamb |
+| Plato, *Republic* | J. Burnet (Oxford Classical Texts) | P. Shorey |
+| Plato, *Symposium* | J. Burnet (Oxford Classical Texts) | W. R. M. Lamb |
+| Sophocles, *Antigone*, *Oedipus Tyrannus* | F. Storr (Loeb Classical Library) | Ian Johnston |
+| Thucydides, *Peloponnesian War* 1–8 | H. S. Jones & J. E. Powell (Oxford Classical Texts) | R. Crawley |
+| Xenophon, *Cyropaedia* | E. C. Marchant (Oxford Classical Texts) | W. Miller |
+| Xenophon, *Symposium* | E. C. Marchant (Oxford Classical Texts) | O. J. Todd |
 
 ## Sources and licences
 
 - **Latin and Greek texts and English translations:** Perseus Digital Library ([Latin](https://github.com/PerseusDL/canonical-latinLit), [Greek](https://github.com/PerseusDL/canonical-greekLit)),
   licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-- **A. S. Kline's translations** (Catullus, *Carmina*; Horace, *Ars Poetica*; Horace, *Epistles*; Horace, *Odes*; Horace, *Satires*; Juvenal, *Satires*; Ovid, *Amores*; Ovid, *Ars Amatoria*; Ovid, *Epistulae ex Ponto*; Ovid, *Fasti*; Ovid, *Heroides*; Ovid, *Metamorphoses*; Ovid, *Remedia Amoris*; Ovid, *Tristia*; Propertius, *Elegies*; Tibullus, *Elegies*; Virgil, *Aeneid*; Virgil, *Eclogues*; Virgil, *Georgics*; Homer, *Iliad*):
+- **A. S. Kline's translations** (Catullus, *Carmina*; Horace, *Ars Poetica*; Horace, *Epistles*; Horace, *Odes*; Horace, *Satires*; Juvenal, *Satires*; Ovid, *Amores*; Ovid, *Ars Amatoria*; Ovid, *Epistulae ex Ponto*; Ovid, *Fasti*; Ovid, *Heroides*; Ovid, *Metamorphoses*; Ovid, *Remedia Amoris*; Ovid, *Tristia*; Propertius, *Elegies*; Tibullus, *Elegies*; Virgil, *Aeneid*; Virgil, *Eclogues*; Virgil, *Georgics*; Homer, *Iliad* and *Odyssey*):
   © A. S. Kline, from [Poetry in Translation](https://www.poetryintranslation.com/),
   reproduced under its terms: free for non-commercial use. They are **not**
   covered by the CC BY-SA licence below; commercial use needs permission from
   Poetry in Translation.
+- **Ian Johnston's translations** (Aeschylus, *Agamemnon*; Aristophanes, *Clouds*, *Lysistrata*,
+  *Frogs*; Euripides, *Medea*, *Bacchae*; Sophocles, *Antigone*, *Oedipus Tyrannus*): © Ian Johnston,
+  Vancouver Island University, used under his terms: free to use and share, but not for commercial
+  publication without his permission. Not covered by the CC BY-SA licence below.
 - **Pliny's Letters, English:** J. B. Firth (1900; Books I–IX) and W. Melmoth, rev.
   F. C. T. Bosanquet (Book X), from [Project Gutenberg](https://www.gutenberg.org/)
   (#3234, #2811) and the [Internet Archive](https://archive.org/) (Firth's Second
@@ -124,4 +140,4 @@ hand.
 
 As adaptations of CC BY-SA material, the text packs in this repository are
 licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), except for the
-A. S. Kline translations inside the packs listed above.
+A. S. Kline and Ian Johnston translations inside the packs listed above.
