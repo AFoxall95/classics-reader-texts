@@ -14,7 +14,7 @@ hand.
 | --- | --- | --- |
 | Caesar, *De Bello Civili* | A. G. Peskett (Loeb Classical Library) | A. G. Peskett |
 | Caesar, *De Bello Gallico* | T. Rice Holmes | W. A. McDevitte & W. S. Bohn |
-| Catullus, *Carmina* | E. T. Merrill | L. C. Smithers |
+| Catullus, *Carmina* | E. T. Merrill | A. S. Kline |
 | Cicero, *Ad Familiares* | L. C. Purser (Oxford Classical Texts) | E. S. Shuckburgh |
 | Cicero, *Ad Quintum Fratrem* | L. C. Purser (Oxford Classical Texts) | E. S. Shuckburgh |
 | Cicero, *De Amicitia* | W. A. Falconer (Loeb Classical Library) | W. A. Falconer |
@@ -31,12 +31,17 @@ hand.
 | Sallust, *Bellum Iugurthinum* | Perseus Digital Library edition | J. S. Watson |
 | Tacitus, *Agricola* | H. Furneaux (Oxford) | A. J. Church & W. J. Brodribb |
 | Tacitus, *Germania* | H. Furneaux (Oxford) | A. J. Church & W. J. Brodribb |
-| Virgil, *Aeneid* | J. B. Greenough | T. C. Williams |
+| Virgil, *Aeneid* | J. B. Greenough | A. S. Kline |
 
 ## Sources and licences
 
 - **Latin texts and English translations:** [Perseus Digital Library](https://github.com/PerseusDL/canonical-latinLit),
   licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **A. S. Kline's translations** (Catullus, *Carmina*; Virgil, *Aeneid*):
+  © A. S. Kline, from [Poetry in Translation](https://www.poetryintranslation.com/),
+  reproduced under its terms: free for non-commercial use. They are **not**
+  covered by the CC BY-SA licence below; commercial use needs permission from
+  Poetry in Translation.
 - **Lewis & Short, *A Latin Dictionary*:** Perseus digitization, via
   [lewis-short-json](https://github.com/IohannesArnold/lewis-short-json), licensed CC BY-SA 4.0.
   Entries are condensed (citations and etymologies removed).
@@ -49,4 +54,5 @@ hand.
   translations are those published by Perseus.
 
 As adaptations of CC BY-SA material, the text packs in this repository are
-licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), except for the
+A. S. Kline translations inside the Catullus and Aeneid packs (see above).

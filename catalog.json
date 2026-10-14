@@ -17,7 +17,7 @@
       "author": "Caesar",
       "description": "Caesar's own account of his conquest of Gaul (58–50 BC), from the Helvetii to Vercingetorix at Alesia.",
       "file": "de-bello-gallico.json",
-      "bytes": 3041685
+      "bytes": 3049482
     },
     {
       "id": "catullus",
@@ -26,7 +26,7 @@
       "author": "Catullus",
       "description": "All of Catullus' poems: love and hate for Lesbia, friends and enemies, myth and invective. Some are sexually explicit.",
       "file": "catullus.json",
-      "bytes": 1748688
+      "bytes": 1750397
     },
     {
       "id": "ad-familiares",
@@ -35,7 +35,7 @@
       "author": "Cicero",
       "description": "Cicero's letters to friends, family and colleagues — Caesar, Pompey, Cato, Tiro — over twenty years.",
       "file": "ad-familiares.json",
-      "bytes": 4910859
+      "bytes": 4914229
     },
     {
       "id": "ad-quintum-fratrem",
@@ -44,7 +44,7 @@
       "author": "Cicero",
       "description": "Cicero's letters to his younger brother, including advice on governing the province of Asia.",
       "file": "ad-quintum-fratrem.json",
-      "bytes": 1748533
+      "bytes": 1749375
     },
     {
       "id": "de-amicitia",
@@ -80,7 +80,7 @@
       "author": "Cicero",
       "description": "Cicero's fourteen speeches against Mark Antony (44–43 BC), the last fight for the Republic.",
       "file": "philippics.json",
-      "bytes": 3185351
+      "bytes": 3186143
     },
     {
       "id": "pro-archia",
@@ -161,7 +161,7 @@
       "author": "Tacitus",
       "description": "Tacitus' life of his father-in-law, the governor who completed the conquest of Britain.",
       "file": "agricola.json",
-      "bytes": 1233446
+      "bytes": 1234020
     },
     {
       "id": "germania",
@@ -170,7 +170,7 @@
       "author": "Tacitus",
       "description": "Tacitus' ethnography of the Germanic peoples beyond the Rhine.",
       "file": "germania.json",
-      "bytes": 1077517
+      "bytes": 1077926
     },
     {
       "id": "aeneid",
@@ -179,7 +179,7 @@
       "author": "Virgil",
       "description": "Virgil's epic of Aeneas, from the fall of Troy to the founding of the Roman people.",
       "file": "aeneid.json",
-      "bytes": 3981874
+      "bytes": 3966893
     }
   ]
 }
