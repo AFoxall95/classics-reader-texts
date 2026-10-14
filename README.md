@@ -10,6 +10,8 @@ hand.
 
 ## Contents
 
+**Latin**
+
 | Text | Latin edition | English translation |
 | --- | --- | --- |
 | Caesar, *De Bello Civili* | A. G. Peskett (Loeb Classical Library) | A. G. Peskett |
@@ -77,11 +79,18 @@ hand.
 | Virgil, *Eclogues* | J. B. Greenough | A. S. Kline |
 | Virgil, *Georgics* | J. B. Greenough | A. S. Kline |
 
+**Ancient Greek**
+
+| Text | Greek edition | English translation |
+| --- | --- | --- |
+| Homer, *Iliad* | D. B. Monro & T. W. Allen (Oxford Classical Texts) | A. S. Kline |
+| Lysias, *On the Murder of Eratosthenes* (Speech 1) | W. R. M. Lamb (Loeb Classical Library) | W. R. M. Lamb |
+
 ## Sources and licences
 
-- **Latin texts and English translations:** [Perseus Digital Library](https://github.com/PerseusDL/canonical-latinLit),
+- **Latin and Greek texts and English translations:** Perseus Digital Library ([Latin](https://github.com/PerseusDL/canonical-latinLit), [Greek](https://github.com/PerseusDL/canonical-greekLit)),
   licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-- **A. S. Kline's translations** (Catullus, *Carmina*; Horace, *Ars Poetica*; Horace, *Epistles*; Horace, *Odes*; Horace, *Satires*; Juvenal, *Satires*; Ovid, *Amores*; Ovid, *Ars Amatoria*; Ovid, *Epistulae ex Ponto*; Ovid, *Fasti*; Ovid, *Heroides*; Ovid, *Metamorphoses*; Ovid, *Remedia Amoris*; Ovid, *Tristia*; Propertius, *Elegies*; Tibullus, *Elegies*; Virgil, *Aeneid*; Virgil, *Eclogues*; Virgil, *Georgics*):
+- **A. S. Kline's translations** (Catullus, *Carmina*; Horace, *Ars Poetica*; Horace, *Epistles*; Horace, *Odes*; Horace, *Satires*; Juvenal, *Satires*; Ovid, *Amores*; Ovid, *Ars Amatoria*; Ovid, *Epistulae ex Ponto*; Ovid, *Fasti*; Ovid, *Heroides*; Ovid, *Metamorphoses*; Ovid, *Remedia Amoris*; Ovid, *Tristia*; Propertius, *Elegies*; Tibullus, *Elegies*; Virgil, *Aeneid*; Virgil, *Eclogues*; Virgil, *Georgics*; Homer, *Iliad*):
   © A. S. Kline, from [Poetry in Translation](https://www.poetryintranslation.com/),
   reproduced under its terms: free for non-commercial use. They are **not**
   covered by the CC BY-SA licence below; commercial use needs permission from
@@ -99,6 +108,9 @@ hand.
 - **Lactantius, *De Mortibus Persecutorum*:** Latin from [Open Greek and Latin](https://github.com/OpenGreekAndLatin/csel-dev)
   (CC BY-SA 4.0); English by W. Fletcher (Ante-Nicene Fathers, 1886) from
   [Wikisource](https://en.wikisource.org/); public domain.
+- **Liddell, Scott & Jones, *A Greek-English Lexicon*:** Perseus digitization
+  ([PerseusDL/lexica](https://github.com/PerseusDL/lexica)), licensed CC BY-SA 4.0.
+  Entries are condensed (citations and quotations removed).
 - **Lewis & Short, *A Latin Dictionary*:** Perseus digitization, via
   [lewis-short-json](https://github.com/IohannesArnold/lewis-short-json), licensed CC BY-SA 4.0.
   Entries are condensed (citations and etymologies removed).
@@ -106,7 +118,7 @@ hand.
   [whitakers-words](https://github.com/mk270/whitakers-words). "Permission is hereby
   freely given for any and all use of program and data."
 - **Grammatical analysis:** generated with [Stanza](https://stanfordnlp.github.io/stanza/)
-  using its Latin Perseus and PROIEL models. It is automatic and occasionally wrong.
+  using its Latin and Ancient Greek Perseus and PROIEL models. It is automatic and occasionally wrong.
 - **Translators and editors** are credited per text above; the Latin editions and
   translations are those published by Perseus.
 

@@ -8,7 +8,8 @@
       "author": "Caesar",
       "description": "Caesar's account of his war with Pompey and the Senate (49–48 BC), from the Rubicon to Pharsalus.",
       "file": "de-bello-civili.json",
-      "bytes": 2307338
+      "bytes": 2307338,
+      "language": "lat"
     },
     {
       "id": "de-bello-gallico",
@@ -17,7 +18,8 @@
       "author": "Caesar",
       "description": "Caesar's own account of his conquest of Gaul (58–50 BC), from the Helvetii to Vercingetorix at Alesia.",
       "file": "de-bello-gallico.json",
-      "bytes": 3049482
+      "bytes": 3049482,
+      "language": "lat"
     },
     {
       "id": "catullus",
@@ -26,7 +28,8 @@
       "author": "Catullus",
       "description": "All of Catullus' poems: love and hate for Lesbia, friends and enemies, myth and invective. Some are sexually explicit.",
       "file": "catullus.json",
-      "bytes": 1750394
+      "bytes": 1750394,
+      "language": "lat"
     },
     {
       "id": "ad-familiares",
@@ -35,7 +38,8 @@
       "author": "Cicero",
       "description": "Cicero's letters to friends, family and colleagues — Caesar, Pompey, Cato, Tiro — over twenty years.",
       "file": "ad-familiares.json",
-      "bytes": 4888882
+      "bytes": 4888882,
+      "language": "lat"
     },
     {
       "id": "ad-quintum-fratrem",
@@ -44,7 +48,8 @@
       "author": "Cicero",
       "description": "Cicero's letters to his younger brother, including advice on governing the province of Asia.",
       "file": "ad-quintum-fratrem.json",
-      "bytes": 1749375
+      "bytes": 1749375,
+      "language": "lat"
     },
     {
       "id": "de-amicitia",
@@ -53,7 +58,8 @@
       "author": "Cicero",
       "description": "A dialogue on friendship, set just after the death of Scipio and voiced by his friend Laelius (44 BC).",
       "file": "de-amicitia.json",
-      "bytes": 1139590
+      "bytes": 1139590,
+      "language": "lat"
     },
     {
       "id": "de-imperio",
@@ -62,7 +68,8 @@
       "author": "Cicero",
       "description": "Cicero's first political speech (66 BC), urging that Pompey be given command against Mithridates.",
       "file": "de-imperio.json",
-      "bytes": 861100
+      "bytes": 861100,
+      "language": "lat"
     },
     {
       "id": "de-officiis",
@@ -71,7 +78,8 @@
       "author": "Cicero",
       "description": "Cicero's last philosophical work, written for his son: what is right, what is useful, and when they conflict.",
       "file": "de-officiis.json",
-      "bytes": 2587361
+      "bytes": 2587361,
+      "language": "lat"
     },
     {
       "id": "in-catilinam",
@@ -80,7 +88,8 @@
       "author": "Cicero",
       "description": "Cicero's four speeches of 63 BC exposing Catiline's conspiracy against the Republic.",
       "file": "in-catilinam.json",
-      "bytes": 1364813
+      "bytes": 1364813,
+      "language": "lat"
     },
     {
       "id": "in-verrem",
@@ -89,7 +98,8 @@
       "author": "Cicero",
       "description": "Cicero's prosecution of Verres, governor of Sicily, for extortion (70 BC).",
       "file": "in-verrem.json",
-      "bytes": 4547828
+      "bytes": 4547828,
+      "language": "lat"
     },
     {
       "id": "philippics",
@@ -98,7 +108,8 @@
       "author": "Cicero",
       "description": "Cicero's fourteen speeches against Mark Antony (44–43 BC), the last fight for the Republic.",
       "file": "philippics.json",
-      "bytes": 3186143
+      "bytes": 3186143,
+      "language": "lat"
     },
     {
       "id": "pro-archia",
@@ -107,7 +118,8 @@
       "author": "Cicero",
       "description": "A short, celebrated speech defending the poet Archias's citizenship, and the value of literature itself (62 BC).",
       "file": "pro-archia.json",
-      "bytes": 604120
+      "bytes": 604120,
+      "language": "lat"
     },
     {
       "id": "pro-cluentio",
@@ -116,7 +128,8 @@
       "author": "Cicero",
       "description": "Cicero's longest surviving defence speech: a murder trial full of family poisonings and bribed juries (66 BC).",
       "file": "pro-cluentio.json",
-      "bytes": 1708062
+      "bytes": 1708062,
+      "language": "lat"
     },
     {
       "id": "pro-ligario",
@@ -125,7 +138,8 @@
       "author": "Cicero",
       "description": "A plea before Caesar himself for the Pompeian Ligarius (46 BC).",
       "file": "pro-ligario.json",
-      "bytes": 577744
+      "bytes": 577744,
+      "language": "lat"
     },
     {
       "id": "pro-marcello",
@@ -134,7 +148,8 @@
       "author": "Cicero",
       "description": "Cicero thanks Caesar for pardoning his old enemy Marcellus (46 BC): praise with an edge.",
       "file": "pro-marcello.json",
-      "bytes": 546914
+      "bytes": 546914,
+      "language": "lat"
     },
     {
       "id": "pro-milone",
@@ -143,7 +158,8 @@
       "author": "Cicero",
       "description": "Cicero's defence of Milo for the killing of Clodius on the Appian Way (52 BC), in the version he published.",
       "file": "pro-milone.json",
-      "bytes": 1247836
+      "bytes": 1247836,
+      "language": "lat"
     },
     {
       "id": "pro-murena",
@@ -152,7 +168,8 @@
       "author": "Cicero",
       "description": "A witty defence of the consul-elect Murena on a bribery charge, in the middle of the Catilinarian crisis (63 BC).",
       "file": "pro-murena.json",
-      "bytes": 1293858
+      "bytes": 1293858,
+      "language": "lat"
     },
     {
       "id": "pro-rege-deiotaro",
@@ -161,7 +178,8 @@
       "author": "Cicero",
       "description": "Cicero defends the Galatian king Deiotarus, accused of plotting to murder Caesar (45 BC).",
       "file": "pro-rege-deiotaro.json",
-      "bytes": 705791
+      "bytes": 705791,
+      "language": "lat"
     },
     {
       "id": "pro-roscio-amerino",
@@ -170,7 +188,8 @@
       "author": "Cicero",
       "description": "Cicero's first great criminal case (80 BC): a son accused of parricide, and Sulla's freedman behind it.",
       "file": "pro-roscio-amerino.json",
-      "bytes": 1293354
+      "bytes": 1293354,
+      "language": "lat"
     },
     {
       "id": "pro-sestio",
@@ -179,7 +198,18 @@
       "author": "Cicero",
       "description": "Cicero's defence of Sestius, and his manifesto for the 'best men' of the Republic (56 BC).",
       "file": "pro-sestio.json",
-      "bytes": 1690198
+      "bytes": 1690198,
+      "language": "lat"
+    },
+    {
+      "id": "iliad",
+      "title": "Iliad",
+      "subtitle": "Books 1–24",
+      "author": "Homer",
+      "description": "The wrath of Achilles: ten days in the tenth year of the Trojan War, from the quarrel with Agamemnon to the funeral of Hector.",
+      "file": "iliad.json",
+      "bytes": 5493599,
+      "language": "grc"
     },
     {
       "id": "horace-ars-poetica",
@@ -188,7 +218,8 @@
       "author": "Horace",
       "description": "Horace's verse letter on writing poetry and drama, hugely influential on later criticism.",
       "file": "horace-ars-poetica.json",
-      "bytes": 786300
+      "bytes": 786300,
+      "language": "lat"
     },
     {
       "id": "horace-epistles",
@@ -197,7 +228,8 @@
       "author": "Horace",
       "description": "Verse letters to friends and patrons on philosophy, ambition and how to live.",
       "file": "horace-epistles.json",
-      "bytes": 1562335
+      "bytes": 1562335,
+      "language": "lat"
     },
     {
       "id": "horace-odes",
@@ -206,7 +238,8 @@
       "author": "Horace",
       "description": "Horace's lyric poems: carpe diem, friendship, wine, love and the brevity of life.",
       "file": "horace-odes.json",
-      "bytes": 1944227
+      "bytes": 1944227,
+      "language": "lat"
     },
     {
       "id": "horace-satires",
@@ -215,7 +248,8 @@
       "author": "Horace",
       "description": "Horace's conversational satires: the bore on the Sacred Way, the town and country mouse.",
       "file": "horace-satires.json",
-      "bytes": 1899621
+      "bytes": 1899621,
+      "language": "lat"
     },
     {
       "id": "juvenal",
@@ -224,7 +258,8 @@
       "author": "Juvenal",
       "description": "Juvenal's furious satires on Rome: the city's dangers, women, the vanity of human wishes. Some explicit content.",
       "file": "juvenal.json",
-      "bytes": 2666319
+      "bytes": 2666319,
+      "language": "lat"
     },
     {
       "id": "lactantius-de-mortibus",
@@ -233,7 +268,8 @@
       "author": "Lactantius",
       "description": "Lactantius' account of the Great Persecution under Diocletian and the grim ends of the emperors who persecuted Christians, down to Constantine (c. AD 315).",
       "file": "lactantius-de-mortibus.json",
-      "bytes": 1563188
+      "bytes": 1563188,
+      "language": "lat"
     },
     {
       "id": "livy-1",
@@ -242,7 +278,8 @@
       "author": "Livy",
       "description": "The founding of Rome and the regal period, from Aeneas to the expulsion of Tarquin.",
       "file": "livy-1.json",
-      "bytes": 1934505
+      "bytes": 1934505,
+      "language": "lat"
     },
     {
       "id": "livy-2",
@@ -251,7 +288,8 @@
       "author": "Livy",
       "description": "The early Republic: Horatius at the bridge, Coriolanus, the secession of the plebs.",
       "file": "livy-2.json",
-      "bytes": 1844319
+      "bytes": 1844319,
+      "language": "lat"
     },
     {
       "id": "livy-21",
@@ -260,7 +298,8 @@
       "author": "Livy",
       "description": "The outbreak of the Second Punic War: Saguntum, and Hannibal's crossing of the Alps.",
       "file": "livy-21.json",
-      "bytes": 1726292
+      "bytes": 1726292,
+      "language": "lat"
     },
     {
       "id": "livy-22",
@@ -269,7 +308,18 @@
       "author": "Livy",
       "description": "Hannibal in Italy: Lake Trasimene, Fabius the Delayer, and the disaster at Cannae.",
       "file": "livy-22.json",
-      "bytes": 1849757
+      "bytes": 1849757,
+      "language": "lat"
+    },
+    {
+      "id": "lysias-1",
+      "title": "On the Murder of Eratosthenes",
+      "subtitle": "Speech 1",
+      "author": "Lysias",
+      "description": "Euphiletus, on trial for killing his wife's lover, tells the jury how he caught him. Plain, lively Attic prose: the classic first text for students of Greek.",
+      "file": "lysias-1.json",
+      "bytes": 367346,
+      "language": "grc"
     },
     {
       "id": "ovid-amores",
@@ -278,7 +328,8 @@
       "author": "Ovid",
       "description": "Ovid's first collection: witty love elegies to Corinna. Some explicit content.",
       "file": "ovid-amores.json",
-      "bytes": 1748041
+      "bytes": 1748041,
+      "language": "lat"
     },
     {
       "id": "ovid-ars-amatoria",
@@ -287,7 +338,8 @@
       "author": "Ovid",
       "description": "Ovid's mock-didactic guide to seduction, the poem that helped get him exiled. Some explicit content.",
       "file": "ovid-ars-amatoria.json",
-      "bytes": 1710507
+      "bytes": 1710507,
+      "language": "lat"
     },
     {
       "id": "ovid-ex-ponto",
@@ -296,7 +348,8 @@
       "author": "Ovid",
       "description": "Ovid's later letters from exile in Tomis, addressed by name to friends in Rome.",
       "file": "ovid-ex-ponto.json",
-      "bytes": 1932329
+      "bytes": 1932329,
+      "language": "lat"
     },
     {
       "id": "ovid-fasti",
@@ -305,7 +358,8 @@
       "author": "Ovid",
       "description": "Ovid's poem on the Roman calendar, January to June: festivals, myths and stars, day by day.",
       "file": "ovid-fasti.json",
-      "bytes": 2665300
+      "bytes": 2665300,
+      "language": "lat"
     },
     {
       "id": "ovid-heroides",
@@ -314,7 +368,8 @@
       "author": "Ovid",
       "description": "Verse letters from mythical women to the men who left them: Penelope, Dido, Medea, Ariadne.",
       "file": "ovid-heroides.json",
-      "bytes": 2165546
+      "bytes": 2165546,
+      "language": "lat"
     },
     {
       "id": "ovid-metamorphoses",
@@ -323,7 +378,8 @@
       "author": "Ovid",
       "description": "Ovid's epic of transformations, from Chaos to the deification of Caesar: Apollo and Daphne, Narcissus, Pyramus and Thisbe. (Kline's translation is in prose.)",
       "file": "ovid-metamorphoses.json",
-      "bytes": 4644112
+      "bytes": 4644112,
+      "language": "lat"
     },
     {
       "id": "ovid-remedia",
@@ -332,7 +388,8 @@
       "author": "Ovid",
       "description": "The sequel to the Ars Amatoria: how to fall out of love.",
       "file": "ovid-remedia.json",
-      "bytes": 927583
+      "bytes": 927583,
+      "language": "lat"
     },
     {
       "id": "ovid-tristia",
@@ -341,7 +398,8 @@
       "author": "Ovid",
       "description": "Poems from exile on the Black Sea: the journey, the last night in Rome, and pleas for recall.",
       "file": "ovid-tristia.json",
-      "bytes": 2048879
+      "bytes": 2048879,
+      "language": "lat"
     },
     {
       "id": "satyricon",
@@ -350,7 +408,8 @@
       "author": "Petronius",
       "description": "The surviving fragments of Petronius' comic novel, including Trimalchio's dinner party. Some explicit content.",
       "file": "satyricon.json",
-      "bytes": 2923287
+      "bytes": 2923287,
+      "language": "lat"
     },
     {
       "id": "phaedrus",
@@ -359,7 +418,8 @@
       "author": "Phaedrus",
       "description": "Aesop's fables in Latin verse: the wolf and the lamb, the fox and the grapes. Short and simple, ideal for beginners.",
       "file": "phaedrus.json",
-      "bytes": 1710550
+      "bytes": 1710550,
+      "language": "lat"
     },
     {
       "id": "pliny-letters",
@@ -368,7 +428,8 @@
       "author": "Pliny the Younger",
       "description": "Pliny's letters: Vesuvius and his uncle's death, a haunted house, his villas, and his correspondence with Trajan on the Christians.",
       "file": "pliny-letters.json",
-      "bytes": 4302220
+      "bytes": 4302220,
+      "language": "lat"
     },
     {
       "id": "propertius",
@@ -377,7 +438,8 @@
       "author": "Propertius",
       "description": "Love elegies for Cynthia, and in Book IV, poems on Rome's origins. (Kline's translation is in prose.)",
       "file": "propertius.json",
-      "bytes": 2378420
+      "bytes": 2378420,
+      "language": "lat"
     },
     {
       "id": "bellum-catilinae",
@@ -386,7 +448,8 @@
       "author": "Sallust",
       "description": "Sallust's history of Catiline's conspiracy: the other side of Cicero's In Catilinam, with the speeches of Caesar and Cato.",
       "file": "bellum-catilinae.json",
-      "bytes": 1308862
+      "bytes": 1308862,
+      "language": "lat"
     },
     {
       "id": "bellum-iugurthinum",
@@ -395,7 +458,8 @@
       "author": "Sallust",
       "description": "Sallust's account of Rome's war with the Numidian king Jugurtha, and the corruption it exposed at home.",
       "file": "bellum-iugurthinum.json",
-      "bytes": 1812863
+      "bytes": 1812863,
+      "language": "lat"
     },
     {
       "id": "suetonius-caligula",
@@ -404,7 +468,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Caligula: career, character, habits and gossip.",
       "file": "suetonius-caligula.json",
-      "bytes": 1469459
+      "bytes": 1469459,
+      "language": "lat"
     },
     {
       "id": "suetonius-augustus",
@@ -413,7 +478,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Augustus: career, character, habits and gossip.",
       "file": "suetonius-augustus.json",
-      "bytes": 2006286
+      "bytes": 2006286,
+      "language": "lat"
     },
     {
       "id": "suetonius-claudius",
@@ -422,7 +488,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Claudius: career, character, habits and gossip.",
       "file": "suetonius-claudius.json",
-      "bytes": 1266917
+      "bytes": 1266917,
+      "language": "lat"
     },
     {
       "id": "suetonius-iulius",
@@ -431,7 +498,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Julius Caesar: career, character, habits and gossip.",
       "file": "suetonius-iulius.json",
-      "bytes": 1587268
+      "bytes": 1587268,
+      "language": "lat"
     },
     {
       "id": "suetonius-titus",
@@ -440,7 +508,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Titus: career, character, habits and gossip.",
       "file": "suetonius-titus.json",
-      "bytes": 501412
+      "bytes": 501412,
+      "language": "lat"
     },
     {
       "id": "suetonius-vespasianus",
@@ -449,7 +518,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Vespasian: career, character, habits and gossip.",
       "file": "suetonius-vespasianus.json",
-      "bytes": 832541
+      "bytes": 832541,
+      "language": "lat"
     },
     {
       "id": "suetonius-domitianus",
@@ -458,7 +528,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Domitian: career, character, habits and gossip.",
       "file": "suetonius-domitianus.json",
-      "bytes": 899810
+      "bytes": 899810,
+      "language": "lat"
     },
     {
       "id": "suetonius-galba",
@@ -467,7 +538,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Galba: career, character, habits and gossip.",
       "file": "suetonius-galba.json",
-      "bytes": 777493
+      "bytes": 777493,
+      "language": "lat"
     },
     {
       "id": "suetonius-nero",
@@ -476,7 +548,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Nero: career, character, habits and gossip.",
       "file": "suetonius-nero.json",
-      "bytes": 1516656
+      "bytes": 1516656,
+      "language": "lat"
     },
     {
       "id": "suetonius-otho",
@@ -485,7 +558,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Otho: career, character, habits and gossip.",
       "file": "suetonius-otho.json",
-      "bytes": 540020
+      "bytes": 540020,
+      "language": "lat"
     },
     {
       "id": "suetonius-tiberius",
@@ -494,7 +568,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Tiberius: career, character, habits and gossip.",
       "file": "suetonius-tiberius.json",
-      "bytes": 1560737
+      "bytes": 1560737,
+      "language": "lat"
     },
     {
       "id": "suetonius-vitellius",
@@ -503,7 +578,8 @@
       "author": "Suetonius",
       "description": "Suetonius' life of Vitellius: career, character, habits and gossip.",
       "file": "suetonius-vitellius.json",
-      "bytes": 698432
+      "bytes": 698432,
+      "language": "lat"
     },
     {
       "id": "agricola",
@@ -512,7 +588,8 @@
       "author": "Tacitus",
       "description": "Tacitus' life of his father-in-law, the governor who completed the conquest of Britain.",
       "file": "agricola.json",
-      "bytes": 1234020
+      "bytes": 1234020,
+      "language": "lat"
     },
     {
       "id": "tacitus-annals",
@@ -521,7 +598,8 @@
       "author": "Tacitus",
       "description": "Rome under Tiberius, Claudius and Nero, in Tacitus' surviving books (1–6, 11–16).",
       "file": "tacitus-annals.json",
-      "bytes": 5183058
+      "bytes": 5183058,
+      "language": "lat"
     },
     {
       "id": "germania",
@@ -530,7 +608,8 @@
       "author": "Tacitus",
       "description": "Tacitus' ethnography of the Germanic peoples beyond the Rhine.",
       "file": "germania.json",
-      "bytes": 1077926
+      "bytes": 1077926,
+      "language": "lat"
     },
     {
       "id": "tacitus-histories",
@@ -539,7 +618,8 @@
       "author": "Tacitus",
       "description": "Civil war after Nero's death: Galba, Otho, Vitellius and the rise of Vespasian (AD 69–70).",
       "file": "tacitus-histories.json",
-      "bytes": 3727144
+      "bytes": 3727144,
+      "language": "lat"
     },
     {
       "id": "tibullus",
@@ -548,7 +628,8 @@
       "author": "Tibullus",
       "description": "Love elegies for Delia and Nemesis, and the poems of Sulpicia, the only female Roman poet whose work survives.",
       "file": "tibullus.json",
-      "bytes": 1402426
+      "bytes": 1402426,
+      "language": "lat"
     },
     {
       "id": "aeneid",
@@ -557,7 +638,8 @@
       "author": "Virgil",
       "description": "Virgil's epic of Aeneas, from the fall of Troy to the founding of the Roman people.",
       "file": "aeneid.json",
-      "bytes": 3966893
+      "bytes": 3963907,
+      "language": "lat"
     },
     {
       "id": "virgil-eclogues",
@@ -566,7 +648,8 @@
       "author": "Virgil",
       "description": "Ten pastoral poems of shepherds, song contests and lost land, including the 'messianic' Fourth Eclogue.",
       "file": "virgil-eclogues.json",
-      "bytes": 948644
+      "bytes": 948644,
+      "language": "lat"
     },
     {
       "id": "virgil-georgics",
@@ -575,7 +658,8 @@
       "author": "Virgil",
       "description": "Virgil's poem on farming, trees, livestock and bees, ending with Orpheus and Eurydice.",
       "file": "virgil-georgics.json",
-      "bytes": 1873683
+      "bytes": 1873683,
+      "language": "lat"
     }
   ]
 }
