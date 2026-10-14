@@ -18,30 +18,79 @@ hand.
 | Cicero, *Ad Familiares* | L. C. Purser (Oxford Classical Texts) | E. S. Shuckburgh |
 | Cicero, *Ad Quintum Fratrem* | L. C. Purser (Oxford Classical Texts) | E. S. Shuckburgh |
 | Cicero, *De Amicitia* | W. A. Falconer (Loeb Classical Library) | W. A. Falconer |
+| Cicero, *De Imperio Cn. Pompei* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *De Officiis* | W. Miller (Loeb Classical Library) | W. Miller |
 | Cicero, *In Catilinam* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
 | Cicero, *In Verrem* | W. Peterson (Oxford Classical Texts) | C. D. Yonge |
 | Cicero, *Philippics* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
 | Cicero, *Pro Archia* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
 | Cicero, *Pro Cluentio* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *Pro Ligario* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *Pro Marcello* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *Pro Milone* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *Pro Murena* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *Pro Rege Deiotaro* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *Pro Roscio Amerino* | A. C. Clark (Oxford Classical Texts) | C. D. Yonge |
+| Cicero, *Pro Sestio* | W. Peterson (Oxford Classical Texts) | C. D. Yonge |
+| Horace, *Ars Poetica* | Perseus Digital Library edition | A. S. Kline |
+| Horace, *Epistles* | H. R. Fairclough (Loeb Classical Library) | A. S. Kline |
+| Horace, *Odes* | P. Shorey | A. S. Kline |
+| Horace, *Satires* | Perseus Digital Library edition | A. S. Kline |
+| Juvenal, *Satires* | G. G. Ramsay (Loeb Classical Library) | A. S. Kline |
+| Lactantius, *De Mortibus Persecutorum* | S. Brandt & G. Laubmann (CSEL) | W. Fletcher (Ante-Nicene Fathers) |
 | Livy, *Ab Urbe Condita 1* | W. Weissenborn & M. Müller (Teubner) | B. O. Foster (Loeb Classical Library) |
 | Livy, *Ab Urbe Condita 2* | W. Weissenborn & M. Müller (Teubner) | B. O. Foster (Loeb Classical Library) |
 | Livy, *Ab Urbe Condita 21* | W. Weissenborn & M. Müller (Teubner) | B. O. Foster (Loeb Classical Library) |
 | Livy, *Ab Urbe Condita 22* | W. Weissenborn & M. Müller (Teubner) | B. O. Foster (Loeb Classical Library) |
+| Ovid, *Amores* | R. Ehwald | A. S. Kline |
+| Ovid, *Ars Amatoria* | R. Ehwald | A. S. Kline |
+| Ovid, *Epistulae ex Ponto* | A. L. Wheeler (Loeb Classical Library) | A. S. Kline |
+| Ovid, *Fasti* | J. G. Frazer | A. S. Kline |
+| Ovid, *Heroides* | R. Ehwald | A. S. Kline |
+| Ovid, *Metamorphoses* | H. Magnus | A. S. Kline |
+| Ovid, *Remedia Amoris* | R. Ehwald | A. S. Kline |
+| Ovid, *Tristia* | A. L. Wheeler (Loeb Classical Library) | A. S. Kline |
+| Petronius, *Satyricon* | M. Heseltine (Loeb Classical Library) | M. Heseltine |
+| Phaedrus, *Fabulae* | L. Mueller | C. Smart |
+| Pliny the Younger, *Epistulae* | Perseus Digital Library edition | J. B. Firth (Books I–V); W. Melmoth, rev. F. C. T. Bosanquet (selected letters, Books VI–X) |
+| Propertius, *Elegies* | L. Mueller | A. S. Kline |
 | Sallust, *Bellum Catilinae* | Perseus Digital Library edition | J. S. Watson |
 | Sallust, *Bellum Iugurthinum* | Perseus Digital Library edition | J. S. Watson |
+| Suetonius, *Caligula* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
+| Suetonius, *Divus Augustus* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
+| Suetonius, *Divus Claudius* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
+| Suetonius, *Divus Iulius* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
+| Suetonius, *Divus Titus* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
+| Suetonius, *Divus Vespasianus* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
+| Suetonius, *Domitianus* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
+| Suetonius, *Galba* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
+| Suetonius, *Nero* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
+| Suetonius, *Otho* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
+| Suetonius, *Tiberius* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
+| Suetonius, *Vitellius* | M. Ihm (Teubner) | A. Thomson, rev. J. E. Reed |
 | Tacitus, *Agricola* | H. Furneaux (Oxford) | A. J. Church & W. J. Brodribb |
+| Tacitus, *Annals* | C. D. Fisher (Oxford Classical Texts) | A. J. Church & W. J. Brodribb |
 | Tacitus, *Germania* | H. Furneaux (Oxford) | A. J. Church & W. J. Brodribb |
+| Tacitus, *Histories* | C. D. Fisher (Oxford Classical Texts) | A. J. Church & W. J. Brodribb |
+| Tibullus, *Elegies* | J. P. Postgate | A. S. Kline |
 | Virgil, *Aeneid* | J. B. Greenough | A. S. Kline |
+| Virgil, *Eclogues* | J. B. Greenough | A. S. Kline |
+| Virgil, *Georgics* | J. B. Greenough | A. S. Kline |
 
 ## Sources and licences
 
 - **Latin texts and English translations:** [Perseus Digital Library](https://github.com/PerseusDL/canonical-latinLit),
   licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-- **A. S. Kline's translations** (Catullus, *Carmina*; Virgil, *Aeneid*):
+- **A. S. Kline's translations** (Catullus, *Carmina*; Horace, *Ars Poetica*; Horace, *Epistles*; Horace, *Odes*; Horace, *Satires*; Juvenal, *Satires*; Ovid, *Amores*; Ovid, *Ars Amatoria*; Ovid, *Epistulae ex Ponto*; Ovid, *Fasti*; Ovid, *Heroides*; Ovid, *Metamorphoses*; Ovid, *Remedia Amoris*; Ovid, *Tristia*; Propertius, *Elegies*; Tibullus, *Elegies*; Virgil, *Aeneid*; Virgil, *Eclogues*; Virgil, *Georgics*):
   © A. S. Kline, from [Poetry in Translation](https://www.poetryintranslation.com/),
   reproduced under its terms: free for non-commercial use. They are **not**
   covered by the CC BY-SA licence below; commercial use needs permission from
   Poetry in Translation.
+- **Pliny's Letters, English:** J. B. Firth (1900) and W. Melmoth, rev. F. C. T.
+  Bosanquet, from [Project Gutenberg](https://www.gutenberg.org/) (#3234, #2811); public domain.
+- **Lactantius, *De Mortibus Persecutorum*:** Latin from [Open Greek and Latin](https://github.com/OpenGreekAndLatin/csel-dev)
+  (CC BY-SA 4.0); English by W. Fletcher (Ante-Nicene Fathers, 1886) from
+  [Wikisource](https://en.wikisource.org/); public domain.
 - **Lewis & Short, *A Latin Dictionary*:** Perseus digitization, via
   [lewis-short-json](https://github.com/IohannesArnold/lewis-short-json), licensed CC BY-SA 4.0.
   Entries are condensed (citations and etymologies removed).
@@ -55,4 +104,4 @@ hand.
 
 As adaptations of CC BY-SA material, the text packs in this repository are
 licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), except for the
-A. S. Kline translations inside the Catullus and Aeneid packs (see above).
+A. S. Kline translations inside the packs listed above.

@@ -56,6 +56,24 @@
       "bytes": 1139590
     },
     {
+      "id": "de-imperio",
+      "title": "De Imperio Cn. Pompei",
+      "subtitle": "On Pompey's Command (Pro Lege Manilia)",
+      "author": "Cicero",
+      "description": "Cicero's first political speech (66 BC), urging that Pompey be given command against Mithridates.",
+      "file": "de-imperio.json",
+      "bytes": 861100
+    },
+    {
+      "id": "de-officiis",
+      "title": "De Officiis",
+      "subtitle": "On Duties",
+      "author": "Cicero",
+      "description": "Cicero's last philosophical work, written for his son: what is right, what is useful, and when they conflict. (The translation covers Books 1–2.)",
+      "file": "de-officiis.json",
+      "bytes": 2487053
+    },
+    {
       "id": "in-catilinam",
       "title": "In Catilinam",
       "subtitle": "Against Catiline (Speeches I–IV)",
@@ -101,6 +119,123 @@
       "bytes": 1708062
     },
     {
+      "id": "pro-ligario",
+      "title": "Pro Ligario",
+      "subtitle": "In Defence of Ligarius",
+      "author": "Cicero",
+      "description": "A plea before Caesar himself for the Pompeian Ligarius (46 BC).",
+      "file": "pro-ligario.json",
+      "bytes": 577744
+    },
+    {
+      "id": "pro-marcello",
+      "title": "Pro Marcello",
+      "subtitle": "On the Pardon of Marcellus",
+      "author": "Cicero",
+      "description": "Cicero thanks Caesar for pardoning his old enemy Marcellus (46 BC): praise with an edge.",
+      "file": "pro-marcello.json",
+      "bytes": 546914
+    },
+    {
+      "id": "pro-milone",
+      "title": "Pro Milone",
+      "subtitle": "In Defence of Milo",
+      "author": "Cicero",
+      "description": "Cicero's defence of Milo for the killing of Clodius on the Appian Way (52 BC), in the version he published.",
+      "file": "pro-milone.json",
+      "bytes": 1247836
+    },
+    {
+      "id": "pro-murena",
+      "title": "Pro Murena",
+      "subtitle": "In Defence of Murena",
+      "author": "Cicero",
+      "description": "A witty defence of the consul-elect Murena on a bribery charge, in the middle of the Catilinarian crisis (63 BC).",
+      "file": "pro-murena.json",
+      "bytes": 1293858
+    },
+    {
+      "id": "pro-rege-deiotaro",
+      "title": "Pro Rege Deiotaro",
+      "subtitle": "In Defence of King Deiotarus",
+      "author": "Cicero",
+      "description": "Cicero defends the Galatian king Deiotarus, accused of plotting to murder Caesar (45 BC).",
+      "file": "pro-rege-deiotaro.json",
+      "bytes": 705791
+    },
+    {
+      "id": "pro-roscio-amerino",
+      "title": "Pro Roscio Amerino",
+      "subtitle": "In Defence of Sextus Roscius of Ameria",
+      "author": "Cicero",
+      "description": "Cicero's first great criminal case (80 BC): a son accused of parricide, and Sulla's freedman behind it.",
+      "file": "pro-roscio-amerino.json",
+      "bytes": 1293354
+    },
+    {
+      "id": "pro-sestio",
+      "title": "Pro Sestio",
+      "subtitle": "In Defence of Sestius",
+      "author": "Cicero",
+      "description": "Cicero's defence of Sestius, and his manifesto for the 'best men' of the Republic (56 BC).",
+      "file": "pro-sestio.json",
+      "bytes": 1690198
+    },
+    {
+      "id": "horace-ars-poetica",
+      "title": "Ars Poetica",
+      "subtitle": "The Art of Poetry",
+      "author": "Horace",
+      "description": "Horace's verse letter on writing poetry and drama, hugely influential on later criticism.",
+      "file": "horace-ars-poetica.json",
+      "bytes": 786300
+    },
+    {
+      "id": "horace-epistles",
+      "title": "Epistles",
+      "subtitle": "Epistulae, Books I–II",
+      "author": "Horace",
+      "description": "Verse letters to friends and patrons on philosophy, ambition and how to live.",
+      "file": "horace-epistles.json",
+      "bytes": 1562335
+    },
+    {
+      "id": "horace-odes",
+      "title": "Odes",
+      "subtitle": "Carmina, Books I–IV",
+      "author": "Horace",
+      "description": "Horace's lyric poems: carpe diem, friendship, wine, love and the brevity of life.",
+      "file": "horace-odes.json",
+      "bytes": 1944227
+    },
+    {
+      "id": "horace-satires",
+      "title": "Satires",
+      "subtitle": "Sermones, Books I–II",
+      "author": "Horace",
+      "description": "Horace's conversational satires: the bore on the Sacred Way, the town and country mouse.",
+      "file": "horace-satires.json",
+      "bytes": 1899621
+    },
+    {
+      "id": "juvenal",
+      "title": "Satires",
+      "subtitle": "Saturae 1–16",
+      "author": "Juvenal",
+      "description": "Juvenal's furious satires on Rome: the city's dangers, women, the vanity of human wishes. Some explicit content.",
+      "file": "juvenal.json",
+      "bytes": 2661863
+    },
+    {
+      "id": "lactantius-de-mortibus",
+      "title": "De Mortibus Persecutorum",
+      "subtitle": "On the Deaths of the Persecutors",
+      "author": "Lactantius",
+      "description": "Lactantius' account of the Great Persecution under Diocletian and the grim ends of the emperors who persecuted Christians, down to Constantine (c. AD 315).",
+      "file": "lactantius-de-mortibus.json",
+      "bytes": 1563188
+    },
+    {
       "id": "livy-1",
       "title": "Ab Urbe Condita 1",
       "subtitle": "History of Rome, Book 1",
@@ -137,6 +272,114 @@
       "bytes": 1849757
     },
     {
+      "id": "ovid-amores",
+      "title": "Amores",
+      "subtitle": "Love Poems, Books I–III",
+      "author": "Ovid",
+      "description": "Ovid's first collection: witty love elegies to Corinna. Some explicit content.",
+      "file": "ovid-amores.json",
+      "bytes": 1748041
+    },
+    {
+      "id": "ovid-ars-amatoria",
+      "title": "Ars Amatoria",
+      "subtitle": "The Art of Love, Books I–III",
+      "author": "Ovid",
+      "description": "Ovid's mock-didactic guide to seduction, the poem that helped get him exiled. Some explicit content.",
+      "file": "ovid-ars-amatoria.json",
+      "bytes": 1710507
+    },
+    {
+      "id": "ovid-ex-ponto",
+      "title": "Epistulae ex Ponto",
+      "subtitle": "Letters from the Black Sea, Books I–IV",
+      "author": "Ovid",
+      "description": "Ovid's later letters from exile in Tomis, addressed by name to friends in Rome.",
+      "file": "ovid-ex-ponto.json",
+      "bytes": 1932329
+    },
+    {
+      "id": "ovid-fasti",
+      "title": "Fasti",
+      "subtitle": "The Roman Calendar, Books I–VI",
+      "author": "Ovid",
+      "description": "Ovid's poem on the Roman calendar, January to June: festivals, myths and stars, day by day.",
+      "file": "ovid-fasti.json",
+      "bytes": 2665300
+    },
+    {
+      "id": "ovid-heroides",
+      "title": "Heroides",
+      "subtitle": "Letters of the Heroines",
+      "author": "Ovid",
+      "description": "Verse letters from mythical women to the men who left them: Penelope, Dido, Medea, Ariadne.",
+      "file": "ovid-heroides.json",
+      "bytes": 2321285
+    },
+    {
+      "id": "ovid-metamorphoses",
+      "title": "Metamorphoses",
+      "subtitle": "Transformations, Books I–XV",
+      "author": "Ovid",
+      "description": "Ovid's epic of transformations, from Chaos to the deification of Caesar: Apollo and Daphne, Narcissus, Pyramus and Thisbe. (Kline's translation is in prose.)",
+      "file": "ovid-metamorphoses.json",
+      "bytes": 4644112
+    },
+    {
+      "id": "ovid-remedia",
+      "title": "Remedia Amoris",
+      "subtitle": "Cures for Love",
+      "author": "Ovid",
+      "description": "The sequel to the Ars Amatoria: how to fall out of love.",
+      "file": "ovid-remedia.json",
+      "bytes": 927583
+    },
+    {
+      "id": "ovid-tristia",
+      "title": "Tristia",
+      "subtitle": "Sorrows, Books I–V",
+      "author": "Ovid",
+      "description": "Poems from exile on the Black Sea: the journey, the last night in Rome, and pleas for recall.",
+      "file": "ovid-tristia.json",
+      "bytes": 2048879
+    },
+    {
+      "id": "satyricon",
+      "title": "Satyricon",
+      "subtitle": "Including the Cena Trimalchionis",
+      "author": "Petronius",
+      "description": "The surviving fragments of Petronius' comic novel, including Trimalchio's dinner party. Some explicit content.",
+      "file": "satyricon.json",
+      "bytes": 2660204
+    },
+    {
+      "id": "phaedrus",
+      "title": "Fabulae",
+      "subtitle": "Fables (Books I–V and Appendix)",
+      "author": "Phaedrus",
+      "description": "Aesop's fables in Latin verse: the wolf and the lamb, the fox and the grapes. Short and simple, ideal for beginners.",
+      "file": "phaedrus.json",
+      "bytes": 1675699
+    },
+    {
+      "id": "pliny-letters",
+      "title": "Epistulae",
+      "subtitle": "Letters, Books I–X",
+      "author": "Pliny the Younger",
+      "description": "Pliny's letters: Vesuvius and his uncle's death, a haunted house, his villas, and his correspondence with Trajan on the Christians. (Books I–V are fully translated; Books VI–X have a selection.)",
+      "file": "pliny-letters.json",
+      "bytes": 4159564
+    },
+    {
+      "id": "propertius",
+      "title": "Elegies",
+      "subtitle": "Elegiae, Books I–IV",
+      "author": "Propertius",
+      "description": "Love elegies for Cynthia, and in Book IV, poems on Rome's origins. (Kline's translation is in prose.)",
+      "file": "propertius.json",
+      "bytes": 2469329
+    },
+    {
       "id": "bellum-catilinae",
       "title": "Bellum Catilinae",
       "subtitle": "The Conspiracy of Catiline",
@@ -155,6 +398,114 @@
       "bytes": 1812863
     },
     {
+      "id": "suetonius-caligula",
+      "title": "Caligula",
+      "subtitle": "Lives of the Caesars 4: Caligula",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Caligula: career, character, habits and gossip.",
+      "file": "suetonius-caligula.json",
+      "bytes": 1467906
+    },
+    {
+      "id": "suetonius-augustus",
+      "title": "Divus Augustus",
+      "subtitle": "Lives of the Caesars 2: Augustus",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Augustus: career, character, habits and gossip.",
+      "file": "suetonius-augustus.json",
+      "bytes": 1985038
+    },
+    {
+      "id": "suetonius-claudius",
+      "title": "Divus Claudius",
+      "subtitle": "Lives of the Caesars 5: Claudius",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Claudius: career, character, habits and gossip.",
+      "file": "suetonius-claudius.json",
+      "bytes": 1266724
+    },
+    {
+      "id": "suetonius-iulius",
+      "title": "Divus Iulius",
+      "subtitle": "Lives of the Caesars 1: Julius Caesar",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Julius Caesar: career, character, habits and gossip.",
+      "file": "suetonius-iulius.json",
+      "bytes": 1584997
+    },
+    {
+      "id": "suetonius-titus",
+      "title": "Divus Titus",
+      "subtitle": "Lives of the Caesars 11: Titus",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Titus: career, character, habits and gossip.",
+      "file": "suetonius-titus.json",
+      "bytes": 501412
+    },
+    {
+      "id": "suetonius-vespasianus",
+      "title": "Divus Vespasianus",
+      "subtitle": "Lives of the Caesars 10: Vespasian",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Vespasian: career, character, habits and gossip.",
+      "file": "suetonius-vespasianus.json",
+      "bytes": 832541
+    },
+    {
+      "id": "suetonius-domitianus",
+      "title": "Domitianus",
+      "subtitle": "Lives of the Caesars 12: Domitian",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Domitian: career, character, habits and gossip.",
+      "file": "suetonius-domitianus.json",
+      "bytes": 887515
+    },
+    {
+      "id": "suetonius-galba",
+      "title": "Galba",
+      "subtitle": "Lives of the Caesars 7: Galba",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Galba: career, character, habits and gossip.",
+      "file": "suetonius-galba.json",
+      "bytes": 766263
+    },
+    {
+      "id": "suetonius-nero",
+      "title": "Nero",
+      "subtitle": "Lives of the Caesars 6: Nero",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Nero: career, character, habits and gossip.",
+      "file": "suetonius-nero.json",
+      "bytes": 1515589
+    },
+    {
+      "id": "suetonius-otho",
+      "title": "Otho",
+      "subtitle": "Lives of the Caesars 8: Otho",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Otho: career, character, habits and gossip.",
+      "file": "suetonius-otho.json",
+      "bytes": 537242
+    },
+    {
+      "id": "suetonius-tiberius",
+      "title": "Tiberius",
+      "subtitle": "Lives of the Caesars 3: Tiberius",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Tiberius: career, character, habits and gossip.",
+      "file": "suetonius-tiberius.json",
+      "bytes": 1550318
+    },
+    {
+      "id": "suetonius-vitellius",
+      "title": "Vitellius",
+      "subtitle": "Lives of the Caesars 9: Vitellius",
+      "author": "Suetonius",
+      "description": "Suetonius' life of Vitellius: career, character, habits and gossip.",
+      "file": "suetonius-vitellius.json",
+      "bytes": 698432
+    },
+    {
       "id": "agricola",
       "title": "Agricola",
       "subtitle": "The Life of Agricola",
@@ -162,6 +513,15 @@
       "description": "Tacitus' life of his father-in-law, the governor who completed the conquest of Britain.",
       "file": "agricola.json",
       "bytes": 1234020
+    },
+    {
+      "id": "tacitus-annals",
+      "title": "Annals",
+      "subtitle": "From the Death of Augustus",
+      "author": "Tacitus",
+      "description": "Rome under Tiberius, Claudius and Nero, in Tacitus' surviving books (1–6, 11–16).",
+      "file": "tacitus-annals.json",
+      "bytes": 5183058
     },
     {
       "id": "germania",
@@ -173,6 +533,24 @@
       "bytes": 1077926
     },
     {
+      "id": "tacitus-histories",
+      "title": "Histories",
+      "subtitle": "The Year of the Four Emperors (Books I–V)",
+      "author": "Tacitus",
+      "description": "Civil war after Nero's death: Galba, Otho, Vitellius and the rise of Vespasian (AD 69–70).",
+      "file": "tacitus-histories.json",
+      "bytes": 3727163
+    },
+    {
+      "id": "tibullus",
+      "title": "Elegies",
+      "subtitle": "Books I–II and the Sulpicia poems",
+      "author": "Tibullus",
+      "description": "Love elegies for Delia and Nemesis, and the poems of Sulpicia, the only female Roman poet whose work survives.",
+      "file": "tibullus.json",
+      "bytes": 1505666
+    },
+    {
       "id": "aeneid",
       "title": "Aeneid",
       "subtitle": "The Aeneid (Books I–XII)",
@@ -180,6 +558,24 @@
       "description": "Virgil's epic of Aeneas, from the fall of Troy to the founding of the Roman people.",
       "file": "aeneid.json",
       "bytes": 3966893
+    },
+    {
+      "id": "virgil-eclogues",
+      "title": "Eclogues",
+      "subtitle": "Bucolics",
+      "author": "Virgil",
+      "description": "Ten pastoral poems of shepherds, song contests and lost land, including the 'messianic' Fourth Eclogue.",
+      "file": "virgil-eclogues.json",
+      "bytes": 948644
+    },
+    {
+      "id": "virgil-georgics",
+      "title": "Georgics",
+      "subtitle": "Books I–IV",
+      "author": "Virgil",
+      "description": "Virgil's poem on farming, trees, livestock and bees, ending with Orpheus and Eurydice.",
+      "file": "virgil-georgics.json",
+      "bytes": 1873683
     }
   ]
 }
