@@ -872,6 +872,126 @@
       "language": "lat"
     },
     {
+      "id": "plutarch-agesilaus-pompey",
+      "title": "Agesilaus and Pompey",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "Sparta's lame warrior-king, and Pompey the Great.",
+      "file": "plutarch-agesilaus-pompey.json",
+      "bytes": 2744097,
+      "language": "grc"
+    },
+    {
+      "id": "plutarch-alcibiades-coriolanus",
+      "title": "Alcibiades and Coriolanus",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "Two brilliant, wilful men who turned against their own cities.",
+      "file": "plutarch-alcibiades-coriolanus.json",
+      "bytes": 2062619,
+      "language": "grc"
+    },
+    {
+      "id": "plutarch-alexander-caesar",
+      "title": "Alexander and Caesar",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "Plutarch's most famous pair: Alexander the Great and Julius Caesar.",
+      "file": "plutarch-alexander-caesar.json",
+      "bytes": 3194406,
+      "language": "grc"
+    },
+    {
+      "id": "plutarch-demetrius-antony",
+      "title": "Demetrius and Antony",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "Two great men undone by their appetites: Demetrius the Besieger, and Antony with Cleopatra.",
+      "file": "plutarch-demetrius-antony.json",
+      "bytes": 2889642,
+      "language": "grc"
+    },
+    {
+      "id": "plutarch-demosthenes-cicero",
+      "title": "Demosthenes and Cicero",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "The two greatest orators of Greece and Rome, and their struggles against Philip and Antony.",
+      "file": "plutarch-demosthenes-cicero.json",
+      "bytes": 2028557,
+      "language": "grc"
+    },
+    {
+      "id": "plutarch-dion-brutus",
+      "title": "Dion and Brutus",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "Two students of Plato who struck at tyranny: Dion at Syracuse, Brutus at Rome.",
+      "file": "plutarch-dion-brutus.json",
+      "bytes": 2377976,
+      "language": "grc"
+    },
+    {
+      "id": "plutarch-lycurgus-numa",
+      "title": "Lycurgus and Numa",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "The lawgivers: Lycurgus, who made Sparta, and Numa, Rome's peaceful second king.",
+      "file": "plutarch-lycurgus-numa.json",
+      "bytes": 2047831,
+      "language": "grc"
+    },
+    {
+      "id": "plutarch-nicias-crassus",
+      "title": "Nicias and Crassus",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "The rich commanders of two disastrous campaigns: Syracuse and Carrhae.",
+      "file": "plutarch-nicias-crassus.json",
+      "bytes": 2116692,
+      "language": "grc"
+    },
+    {
+      "id": "plutarch-pericles-fabius",
+      "title": "Pericles and Fabius Maximus",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "Pericles in Athens' golden age, and Fabius, the 'Delayer' who wore down Hannibal.",
+      "file": "plutarch-pericles-fabius.json",
+      "bytes": 2010472,
+      "language": "grc"
+    },
+    {
+      "id": "plutarch-solon-publicola",
+      "title": "Solon and Publicola",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "Solon, poet and reformer of Athens, and Publicola, a founder of the Roman Republic.",
+      "file": "plutarch-solon-publicola.json",
+      "bytes": 1736756,
+      "language": "grc"
+    },
+    {
+      "id": "plutarch-themistocles-camillus",
+      "title": "Themistocles and Camillus",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "The victor of Salamis, and the Roman who saved the city from the Gauls.",
+      "file": "plutarch-themistocles-camillus.json",
+      "bytes": 2021274,
+      "language": "grc"
+    },
+    {
+      "id": "plutarch-theseus-romulus",
+      "title": "Theseus and Romulus",
+      "subtitle": "Parallel Lives",
+      "author": "Plutarch",
+      "description": "Athens' legendary founder-king beside Rome's: the Minotaur, the Amazons, the wolf and the twins.",
+      "file": "plutarch-theseus-romulus.json",
+      "bytes": 1945026,
+      "language": "grc"
+    },
+    {
       "id": "propertius",
       "title": "Elegies",
       "subtitle": "Elegiae, Books I–IV",
