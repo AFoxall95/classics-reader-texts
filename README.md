@@ -83,20 +83,27 @@ hand.
 
 | Text | Greek edition | English translation |
 | --- | --- | --- |
-| Aeschylus, *Agamemnon* | H. W. Smyth (Loeb Classical Library) | Ian Johnston |
-| Aristophanes, *Clouds*, *Lysistrata*, *Frogs* | F. W. Hall & W. M. Geldart (Oxford Classical Texts) | Ian Johnston |
-| Euripides, *Medea*, *Bacchae* | G. Murray (Oxford Classical Texts) | Ian Johnston |
+| Aeschylus, *Agamemnon*, *Libation Bearers*, *Eumenides* (the Oresteia), *Prometheus Bound*, *Persians* | H. W. Smyth (Loeb Classical Library) | Ian Johnston |
+| Aristophanes, *Birds*, *Clouds*, *Frogs*, *Knights*, *Lysistrata*, *Peace* | F. W. Hall & W. M. Geldart (Oxford Classical Texts) | Ian Johnston |
+| Euripides, *Bacchae*, *Electra*, *Hippolytus*, *Medea*, *Orestes* | G. Murray (Oxford Classical Texts) | Ian Johnston |
 | Herodotus, *Histories* 1–9 | A. D. Godley (Loeb Classical Library) | A. D. Godley |
+| Hesiod, *Theogony*, *Works and Days* | H. G. Evelyn-White (Loeb Classical Library) | Christopher Kelk |
 | Homer, *Iliad* | D. B. Monro & T. W. Allen (Oxford Classical Texts) | A. S. Kline |
 | Homer, *Odyssey* | A. T. Murray (Loeb Classical Library) | A. S. Kline |
-| Isocrates, *Panegyricus* | G. Norlin (Loeb Classical Library) | G. Norlin |
+| Isocrates, *Panegyricus*, *To Demonicus*, *Against the Sophists* | G. Norlin (Loeb Classical Library) | G. Norlin |
+| Isocrates, *Helen*, *Evagoras* | L. Van Hook (Loeb Classical Library) | L. Van Hook |
 | Lysias, *On the Murder of Eratosthenes* (Speech 1) | W. R. M. Lamb (Loeb Classical Library) | W. R. M. Lamb |
+| Plato, *Euthyphro*, *Apology*, *Crito*, *Phaedo*, *Phaedrus* | J. Burnet (Oxford Classical Texts) | H. N. Fowler |
+| Plato, *Symposium*, *Meno*, *Gorgias*, *Protagoras* | J. Burnet (Oxford Classical Texts) | W. R. M. Lamb |
 | Plato, *Republic* | J. Burnet (Oxford Classical Texts) | P. Shorey |
-| Plato, *Symposium* | J. Burnet (Oxford Classical Texts) | W. R. M. Lamb |
-| Sophocles, *Antigone*, *Oedipus Tyrannus* | F. Storr (Loeb Classical Library) | Ian Johnston |
+| Plato, *Laws* | J. Burnet (Oxford Classical Texts) | R. G. Bury |
+| Plutarch, *Parallel Lives* (12 pairs) | B. Perrin (Loeb Classical Library) | B. Perrin |
+| Sophocles, *Ajax*, *Antigone*, *Oedipus Tyrannus*, *Oedipus at Colonus*, *Philoctetes* | F. Storr (Loeb Classical Library) | Ian Johnston |
 | Thucydides, *Peloponnesian War* 1–8 | H. S. Jones & J. E. Powell (Oxford Classical Texts) | R. Crawley |
+| Xenophon, *Anabasis* 1–7, *Hellenica* 1–7 | E. C. Marchant (Oxford Classical Texts) | C. L. Brownson |
 | Xenophon, *Cyropaedia* | E. C. Marchant (Oxford Classical Texts) | W. Miller |
-| Xenophon, *Symposium* | E. C. Marchant (Oxford Classical Texts) | O. J. Todd |
+| Xenophon, *Memorabilia* | E. C. Marchant (Oxford Classical Texts) | E. C. Marchant |
+| Xenophon, *Symposium*, *Apology* | E. C. Marchant (Oxford Classical Texts) | O. J. Todd |
 
 ## Sources and licences
 
@@ -107,10 +114,13 @@ hand.
   reproduced under its terms: free for non-commercial use. They are **not**
   covered by the CC BY-SA licence below; commercial use needs permission from
   Poetry in Translation.
-- **Ian Johnston's translations** (Aeschylus, *Agamemnon*; Aristophanes, *Clouds*, *Lysistrata*,
-  *Frogs*; Euripides, *Medea*, *Bacchae*; Sophocles, *Antigone*, *Oedipus Tyrannus*): © Ian Johnston,
-  Vancouver Island University, used under his terms: free to use and share, but not for commercial
-  publication without his permission. Not covered by the CC BY-SA licence below.
+- **Ian Johnston's translations** of Greek drama (Aeschylus, Aristophanes, Euripides and Sophocles,
+  as listed above): © Ian Johnston, Vancouver Island University, used under his terms: free to use
+  and share, but not for commercial publication without his permission. Not covered by the CC BY-SA
+  licence below.
+- **Christopher Kelk's Hesiod** (*Theogony*, *Works and Days*): © Christopher Kelk, from Poetry in
+  Translation, free for non-commercial use; not covered by the CC BY-SA licence below. His passages
+  are matched to the Greek by line count.
 - **Pliny's Letters, English:** J. B. Firth (1900; Books I–IX) and W. Melmoth, rev.
   F. C. T. Bosanquet (Book X), from [Project Gutenberg](https://www.gutenberg.org/)
   (#3234, #2811) and the [Internet Archive](https://archive.org/) (Firth's Second
@@ -140,4 +150,4 @@ hand.
 
 As adaptations of CC BY-SA material, the text packs in this repository are
 licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), except for the
-A. S. Kline and Ian Johnston translations inside the packs listed above.
+A. S. Kline, Christopher Kelk and Ian Johnston translations inside the packs listed above.

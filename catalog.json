@@ -3,12 +3,62 @@
   "texts": [
     {
       "id": "agamemnon",
-      "title": "Agamemnon",
-      "subtitle": "Oresteia 1",
+      "title": "Oresteia I: Agamemnon",
+      "subtitle": "Ἀγαμέμνων",
       "author": "Aeschylus",
       "description": "Agamemnon comes home victorious from Troy, to Clytemnestra and her revenge. The first play of the Oresteia.",
       "file": "agamemnon.json",
-      "bytes": 1321815,
+      "bytes": 1321832,
+      "language": "grc"
+    },
+    {
+      "id": "libation-bearers",
+      "title": "Oresteia II: Libation Bearers",
+      "subtitle": "Choephori",
+      "author": "Aeschylus",
+      "description": "Orestes returns from exile and, urged on by his sister Electra, avenges his father on Clytemnestra. The second play of the Oresteia.",
+      "file": "libation-bearers.json",
+      "bytes": 931348,
+      "language": "grc"
+    },
+    {
+      "id": "eumenides",
+      "title": "Oresteia III: Eumenides",
+      "subtitle": "The Kindly Ones",
+      "author": "Aeschylus",
+      "description": "Pursued by the Furies, Orestes is tried at Athens before Athena's new court. The last play of the Oresteia.",
+      "file": "eumenides.json",
+      "bytes": 885202,
+      "language": "grc"
+    },
+    {
+      "id": "persians",
+      "title": "Persians",
+      "subtitle": "Πέρσαι",
+      "author": "Aeschylus",
+      "description": "The Persian court hears of the defeat at Salamis: the oldest surviving Greek play (472 BC).",
+      "file": "persians.json",
+      "bytes": 924440,
+      "language": "grc"
+    },
+    {
+      "id": "prometheus-bound",
+      "title": "Prometheus Bound",
+      "subtitle": "Προμηθεὺς Δεσμώτης",
+      "author": "Aeschylus",
+      "description": "Prometheus, chained to a rock for giving fire to mankind, defies Zeus.",
+      "file": "prometheus-bound.json",
+      "bytes": 989712,
+      "language": "grc"
+    },
+    {
+      "id": "birds",
+      "title": "Birds",
+      "subtitle": "Ὄρνιθες",
+      "author": "Aristophanes",
+      "description": "Two Athenians persuade the birds to build Cloudcuckooland between heaven and earth. Some explicit content.",
+      "file": "birds.json",
+      "bytes": 1366944,
       "language": "grc"
     },
     {
@@ -18,7 +68,7 @@
       "author": "Aristophanes",
       "description": "Strepsiades sends his son to Socrates' Thinkery to learn how to talk his way out of his debts. Some explicit content.",
       "file": "clouds.json",
-      "bytes": 1229075,
+      "bytes": 1228641,
       "language": "grc"
     },
     {
@@ -28,7 +78,17 @@
       "author": "Aristophanes",
       "description": "Dionysus goes down to Hades to bring back a great poet, and judges a contest between Aeschylus and Euripides. Some explicit content.",
       "file": "frogs.json",
-      "bytes": 1249648,
+      "bytes": 1249729,
+      "language": "grc"
+    },
+    {
+      "id": "knights",
+      "title": "Knights",
+      "subtitle": "Ἱππῆς",
+      "author": "Aristophanes",
+      "description": "A sausage-seller out-demagogues Cleon for the favour of old Demos. Some explicit content.",
+      "file": "knights.json",
+      "bytes": 1187004,
       "language": "grc"
     },
     {
@@ -38,7 +98,17 @@
       "author": "Aristophanes",
       "description": "The women of Greece go on strike to force their men to end the war. Explicit content.",
       "file": "lysistrata.json",
-      "bytes": 1086416,
+      "bytes": 1086449,
+      "language": "grc"
+    },
+    {
+      "id": "peace",
+      "title": "Peace",
+      "subtitle": "Εἰρήνη",
+      "author": "Aristophanes",
+      "description": "Trygaeus flies to heaven on a dung beetle to bring the goddess Peace back to Greece. Some explicit content.",
+      "file": "peace.json",
+      "bytes": 1131958,
       "language": "grc"
     },
     {
@@ -248,7 +318,27 @@
       "author": "Euripides",
       "description": "Dionysus returns to Thebes, and King Pentheus, who denies him, is torn apart by the god's worshippers.",
       "file": "bacchae.json",
-      "bytes": 1128816,
+      "bytes": 1128802,
+      "language": "grc"
+    },
+    {
+      "id": "electra-euripides",
+      "title": "Electra",
+      "subtitle": "Ἠλέκτρα",
+      "author": "Euripides",
+      "description": "Euripides' version of Orestes' revenge, with Electra married off to a poor farmer.",
+      "file": "electra-euripides.json",
+      "bytes": 1098535,
+      "language": "grc"
+    },
+    {
+      "id": "hippolytus",
+      "title": "Hippolytus",
+      "subtitle": "Ἱππόλυτος",
+      "author": "Euripides",
+      "description": "Phaedra's forbidden love for her stepson Hippolytus, and the destruction Aphrodite brings on them both.",
+      "file": "hippolytus.json",
+      "bytes": 1142699,
       "language": "grc"
     },
     {
@@ -258,7 +348,17 @@
       "author": "Euripides",
       "description": "Abandoned by Jason in Corinth, Medea takes a terrible revenge.",
       "file": "medea.json",
-      "bytes": 1085625,
+      "bytes": 1085620,
+      "language": "grc"
+    },
+    {
+      "id": "orestes",
+      "title": "Orestes",
+      "subtitle": "Ὀρέστης",
+      "author": "Euripides",
+      "description": "After killing his mother, the sick and hunted Orestes faces death at the hands of Argos.",
+      "file": "orestes.json",
+      "bytes": 1273213,
       "language": "grc"
     },
     {
@@ -352,6 +452,26 @@
       "language": "grc"
     },
     {
+      "id": "theogony",
+      "title": "Theogony",
+      "subtitle": "Θεογονία",
+      "author": "Hesiod",
+      "description": "The birth of the world and the gods, from Chaos to the reign of Zeus: Cronus, the Titans, Prometheus.",
+      "file": "theogony.json",
+      "bytes": 945422,
+      "language": "grc"
+    },
+    {
+      "id": "works-and-days",
+      "title": "Works and Days",
+      "subtitle": "Ἔργα καὶ Ἡμέραι",
+      "author": "Hesiod",
+      "description": "Advice to Hesiod's brother Perses on justice and hard work: Pandora, the five ages of man, the farmer's year.",
+      "file": "works-and-days.json",
+      "bytes": 896074,
+      "language": "grc"
+    },
+    {
       "id": "iliad",
       "title": "Iliad",
       "subtitle": "Books 1–24",
@@ -412,6 +532,36 @@
       "language": "lat"
     },
     {
+      "id": "against-the-sophists",
+      "title": "Against the Sophists",
+      "subtitle": "Speech 13",
+      "author": "Isocrates",
+      "description": "Isocrates' short manifesto on what education in speaking can, and cannot, do.",
+      "file": "against-the-sophists.json",
+      "bytes": 276760,
+      "language": "grc"
+    },
+    {
+      "id": "evagoras",
+      "title": "Evagoras",
+      "subtitle": "Speech 9",
+      "author": "Isocrates",
+      "description": "In praise of Evagoras, king of Salamis in Cyprus: the first prose speech in praise of a real person.",
+      "file": "evagoras.json",
+      "bytes": 608901,
+      "language": "grc"
+    },
+    {
+      "id": "isocrates-helen",
+      "title": "Helen",
+      "subtitle": "Speech 10",
+      "author": "Isocrates",
+      "description": "An encomium of Helen of Troy, written in answer to Gorgias' famous defence of her.",
+      "file": "isocrates-helen.json",
+      "bytes": 563287,
+      "language": "grc"
+    },
+    {
       "id": "panegyricus",
       "title": "Panegyricus",
       "subtitle": "Speech 4",
@@ -419,6 +569,16 @@
       "description": "Isocrates' great showpiece speech (380 BC): Athens' glories, and a call for the Greeks to unite against Persia.",
       "file": "panegyricus.json",
       "bytes": 1076041,
+      "language": "grc"
+    },
+    {
+      "id": "to-demonicus",
+      "title": "To Demonicus",
+      "subtitle": "Speech 1",
+      "author": "Isocrates",
+      "description": "Maxims on how a young man should live: a traditional first text in schools.",
+      "file": "to-demonicus.json",
+      "bytes": 486827,
       "language": "grc"
     },
     {
@@ -592,6 +752,96 @@
       "language": "lat"
     },
     {
+      "id": "plato-apology",
+      "title": "Apology",
+      "subtitle": "The Defence of Socrates",
+      "author": "Plato",
+      "description": "Socrates' speech to the jury at his trial for impiety and corrupting the young (399 BC).",
+      "file": "plato-apology.json",
+      "bytes": 818520,
+      "language": "grc"
+    },
+    {
+      "id": "plato-crito",
+      "title": "Crito",
+      "subtitle": "Κρίτων",
+      "author": "Plato",
+      "description": "In prison awaiting death, Socrates explains to his friend Crito why he will not escape.",
+      "file": "plato-crito.json",
+      "bytes": 496755,
+      "language": "grc"
+    },
+    {
+      "id": "plato-euthyphro",
+      "title": "Euthyphro",
+      "subtitle": "Εὐθύφρων",
+      "author": "Plato",
+      "description": "On his way to his trial, Socrates asks a priest prosecuting his own father what piety is.",
+      "file": "plato-euthyphro.json",
+      "bytes": 509538,
+      "language": "grc"
+    },
+    {
+      "id": "plato-gorgias",
+      "title": "Gorgias",
+      "subtitle": "Γοργίας",
+      "author": "Plato",
+      "description": "What is rhetoric, and is power worth having without justice? Socrates against Gorgias, Polus and Callicles.",
+      "file": "plato-gorgias.json",
+      "bytes": 1657076,
+      "language": "grc"
+    },
+    {
+      "id": "plato-laws",
+      "title": "Laws",
+      "subtitle": "Books 1–12",
+      "author": "Plato",
+      "description": "Plato's last and longest work: three old men walking on Crete plan the laws of a new city.",
+      "file": "plato-laws.json",
+      "bytes": 5252813,
+      "language": "grc"
+    },
+    {
+      "id": "plato-meno",
+      "title": "Meno",
+      "subtitle": "Μένων",
+      "author": "Plato",
+      "description": "Can virtue be taught? Socrates leads a slave boy to a geometric proof, and argues that learning is recollection.",
+      "file": "plato-meno.json",
+      "bytes": 762418,
+      "language": "grc"
+    },
+    {
+      "id": "plato-phaedo",
+      "title": "Phaedo",
+      "subtitle": "Φαίδων",
+      "author": "Plato",
+      "description": "Socrates' last conversation, on the immortality of the soul, and his death.",
+      "file": "plato-phaedo.json",
+      "bytes": 1552271,
+      "language": "grc"
+    },
+    {
+      "id": "plato-phaedrus",
+      "title": "Phaedrus",
+      "subtitle": "Φαῖδρος",
+      "author": "Plato",
+      "description": "By a stream outside Athens: speeches on love, the charioteer of the soul, and what makes good speaking and writing.",
+      "file": "plato-phaedrus.json",
+      "bytes": 1546101,
+      "language": "grc"
+    },
+    {
+      "id": "plato-protagoras",
+      "title": "Protagoras",
+      "subtitle": "Πρωταγόρας",
+      "author": "Plato",
+      "description": "Socrates questions the famous sophist Protagoras: can virtue be taught, and is it one thing or many?",
+      "file": "plato-protagoras.json",
+      "bytes": 1331936,
+      "language": "grc"
+    },
+    {
       "id": "plato-republic",
       "title": "Republic",
       "subtitle": "Books 1–10",
@@ -652,13 +902,23 @@
       "language": "lat"
     },
     {
+      "id": "ajax",
+      "title": "Ajax",
+      "subtitle": "Αἴας",
+      "author": "Sophocles",
+      "description": "Denied Achilles' armour, the hero Ajax is driven mad by Athena, and takes his own life.",
+      "file": "ajax.json",
+      "bytes": 1154912,
+      "language": "grc"
+    },
+    {
       "id": "antigone",
       "title": "Antigone",
       "subtitle": "Ἀντιγόνη",
       "author": "Sophocles",
       "description": "Antigone defies King Creon's decree to bury her brother, choosing the gods' law over the city's.",
       "file": "antigone.json",
-      "bytes": 1086942,
+      "bytes": 1086932,
       "language": "grc"
     },
     {
@@ -668,7 +928,27 @@
       "author": "Sophocles",
       "description": "Oedipus hunts for the killer of Laius, and discovers who he really is.",
       "file": "oedipus-tyrannus.json",
-      "bytes": 1139462,
+      "bytes": 1139453,
+      "language": "grc"
+    },
+    {
+      "id": "oedipus-at-colonus",
+      "title": "Oedipus at Colonus",
+      "subtitle": "Οἰδίπους ἐπὶ Κολωνῷ",
+      "author": "Sophocles",
+      "description": "The old, blind Oedipus, led by Antigone, comes to Colonus near Athens to die.",
+      "file": "oedipus-at-colonus.json",
+      "bytes": 1253652,
+      "language": "grc"
+    },
+    {
+      "id": "philoctetes",
+      "title": "Philoctetes",
+      "subtitle": "Φιλοκτήτης",
+      "author": "Sophocles",
+      "description": "Odysseus and Neoptolemus must win the bow of Philoctetes, abandoned on Lemnos, to take Troy.",
+      "file": "philoctetes.json",
+      "bytes": 1092090,
       "language": "grc"
     },
     {
@@ -952,6 +1232,86 @@
       "language": "lat"
     },
     {
+      "id": "anabasis-1",
+      "title": "Anabasis 1",
+      "subtitle": "Book 1",
+      "author": "Xenophon",
+      "description": "Cyrus the Younger marches inland against his brother, the Persian king, and falls at Cunaxa.",
+      "file": "anabasis-1.json",
+      "bytes": 976831,
+      "language": "grc"
+    },
+    {
+      "id": "anabasis-2",
+      "title": "Anabasis 2",
+      "subtitle": "Book 2",
+      "author": "Xenophon",
+      "description": "The Greek generals are betrayed and murdered by Tissaphernes.",
+      "file": "anabasis-2.json",
+      "bytes": 768798,
+      "language": "grc"
+    },
+    {
+      "id": "anabasis-3",
+      "title": "Anabasis 3",
+      "subtitle": "Book 3",
+      "author": "Xenophon",
+      "description": "Xenophon rallies the leaderless army, and the retreat north begins.",
+      "file": "anabasis-3.json",
+      "bytes": 815115,
+      "language": "grc"
+    },
+    {
+      "id": "anabasis-4",
+      "title": "Anabasis 4",
+      "subtitle": "Book 4",
+      "author": "Xenophon",
+      "description": "Through the mountains of Kurdistan and the Armenian snows, to the sea: Thalatta! Thalatta!",
+      "file": "anabasis-4.json",
+      "bytes": 905027,
+      "language": "grc"
+    },
+    {
+      "id": "anabasis-5",
+      "title": "Anabasis 5",
+      "subtitle": "Book 5",
+      "author": "Xenophon",
+      "description": "Along the Black Sea coast, among Greek colonies and hostile tribes.",
+      "file": "anabasis-5.json",
+      "bytes": 932282,
+      "language": "grc"
+    },
+    {
+      "id": "anabasis-6",
+      "title": "Anabasis 6",
+      "subtitle": "Book 6",
+      "author": "Xenophon",
+      "description": "The army splits, and fights its way west towards Byzantium.",
+      "file": "anabasis-6.json",
+      "bytes": 797524,
+      "language": "grc"
+    },
+    {
+      "id": "anabasis-7",
+      "title": "Anabasis 7",
+      "subtitle": "Book 7",
+      "author": "Xenophon",
+      "description": "Mercenary service in Thrace under the prince Seuthes, and the army's end.",
+      "file": "anabasis-7.json",
+      "bytes": 1075577,
+      "language": "grc"
+    },
+    {
+      "id": "xenophon-apology",
+      "title": "Apology",
+      "subtitle": "The Defence of Socrates",
+      "author": "Xenophon",
+      "description": "Xenophon's short account of why Socrates chose to defy the jury rather than plead for his life.",
+      "file": "xenophon-apology.json",
+      "bytes": 352967,
+      "language": "grc"
+    },
+    {
       "id": "cyropaedia",
       "title": "Cyropaedia",
       "subtitle": "The Education of Cyrus",
@@ -959,6 +1319,86 @@
       "description": "A fictionalised life of Cyrus the Great, founder of the Persian Empire, as a model of how to lead.",
       "file": "cyropaedia.json",
       "bytes": 4202213,
+      "language": "grc"
+    },
+    {
+      "id": "hellenica-1",
+      "title": "Hellenica 1",
+      "subtitle": "Book 1",
+      "author": "Xenophon",
+      "description": "The last years of the Peloponnesian War, from 411 BC: Alcibiades' return and the trial of the generals.",
+      "file": "hellenica-1.json",
+      "bytes": 820362,
+      "language": "grc"
+    },
+    {
+      "id": "hellenica-2",
+      "title": "Hellenica 2",
+      "subtitle": "Book 2",
+      "author": "Xenophon",
+      "description": "Aegospotami, the fall of Athens and the rule of the Thirty Tyrants.",
+      "file": "hellenica-2.json",
+      "bytes": 904814,
+      "language": "grc"
+    },
+    {
+      "id": "hellenica-3",
+      "title": "Hellenica 3",
+      "subtitle": "Book 3",
+      "author": "Xenophon",
+      "description": "Sparta at war with Persia in Asia Minor; the beginning of the Corinthian War.",
+      "file": "hellenica-3.json",
+      "bytes": 944558,
+      "language": "grc"
+    },
+    {
+      "id": "hellenica-4",
+      "title": "Hellenica 4",
+      "subtitle": "Book 4",
+      "author": "Xenophon",
+      "description": "Agesilaus in Asia and at Coronea; the Corinthian War.",
+      "file": "hellenica-4.json",
+      "bytes": 1113426,
+      "language": "grc"
+    },
+    {
+      "id": "hellenica-5",
+      "title": "Hellenica 5",
+      "subtitle": "Book 5",
+      "author": "Xenophon",
+      "description": "The King's Peace, Sparta at its height, and the seizure of the Theban citadel.",
+      "file": "hellenica-5.json",
+      "bytes": 1078503,
+      "language": "grc"
+    },
+    {
+      "id": "hellenica-6",
+      "title": "Hellenica 6",
+      "subtitle": "Book 6",
+      "author": "Xenophon",
+      "description": "Thebes rises: the Spartan defeat at Leuctra (371 BC).",
+      "file": "hellenica-6.json",
+      "bytes": 1078219,
+      "language": "grc"
+    },
+    {
+      "id": "hellenica-7",
+      "title": "Hellenica 7",
+      "subtitle": "Book 7",
+      "author": "Xenophon",
+      "description": "Theban supremacy, ending with the battle of Mantinea (362 BC).",
+      "file": "hellenica-7.json",
+      "bytes": 1045025,
+      "language": "grc"
+    },
+    {
+      "id": "memorabilia",
+      "title": "Memorabilia",
+      "subtitle": "Recollections of Socrates",
+      "author": "Xenophon",
+      "description": "Xenophon's defence of Socrates and his memories of Socrates' conversations, including the Choice of Heracles.",
+      "file": "memorabilia.json",
+      "bytes": 2387954,
       "language": "grc"
     },
     {
